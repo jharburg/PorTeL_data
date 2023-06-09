@@ -1,0 +1,9 @@
+20221020_173257.23: Main form log, SKY2000V5 star catalog loaded.
+20221020_173257.49: Main form log, Star ID initialized.
+20221020_173259.41: Main form log, Initialization success: FSM.
+20221020_173305.07: Main form log, FSM connection closed.
+20221020_173322.18: Main form log, Initialization success: FSM.
+20221020_173350.80: Main form log, FSM connection closed.
+20221020_173358.92: Main form log, Initialization success: FSM.
+20221020_173409.49: Main form log, FSM connection closed.
+20221020_173410.01: Main form log, FSM connection closed.

@@ -1,0 +1,23 @@
+20220917_005420.99: Main form log, SKY2000V5 star catalog loaded.
+20220917_005421.11: Main form log, Star ID initialized.
+20220917_005426.22: Main form log, Mount connected on port 'COM7'
+20220917_005432.27: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\GS_Tracking_KR\bin\Release\20220915_203021.53.acal
+20220917_005438.43: Main form log, Tracking star 18350042.
+20220917_005438.43: Main form log, RA: 4.86600898505985, DEC: -0.143883004279688
+20220917_005438.43: Main form log, ENU Azi: -156.419934805595, ENU Alt: 36.2819497986804
+20220917_005446.63: Main form log, iNova camera initialized: True
+20220917_005456.35: Main form log, Star camera image 20220917_005453.77 added for calibration.
+20220917_005456.47: Star Cam Display Form: Identified 10 stars.
+20220917_005456.47: Star Cam Display Form: RMSE: 3.94 arcseconds
+20220917_005456.47: Star Cam Display Form: Max score: 130.27
+20220917_005456.64: Main form log, Displaying image 20220917_005453.77
+20220917_005456.69: Main form log, Capture time: 3.3131895 s.
+20220917_005459.51: Main form log, Feedback from brightest star: correction of 79.097 arcsec.
+20220917_005501.89: Main form log, dq cleared.
+20220917_005502.96: Main form log, Initialization success: IR camera.
+20220917_005505.12: Main form log, Start grab with tracking camera.
+20220917_005514.67: Main form log, LOS set to pixels (640, 500).
+20220917_005514.67: Main form log, LOS_ST = (-1.65385731718846E-05, 0.00211404767008541, 0.999997765261965).
+20220917_005514.67: Star Cam Display Form: LOS set to X: 640, Y: 500
+20220917_005532.56: Main form log, Stop command sent.
+20220917_005532.56: Main form log, dq cleared.

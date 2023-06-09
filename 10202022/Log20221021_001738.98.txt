@@ -1,0 +1,6 @@
+20221021_001739.35: Main form log, SKY2000V5 star catalog loaded.
+20221021_001739.48: Main form log, Star ID initialized.
+20221021_001746.36: Main form log, Initialization success: IR camera.
+20221021_001749.91: Main form log, Start grab with tracking camera.
+20221021_001757.07: Main form log, Mount connected on port 'COM4'
+20221021_001811.07: Main form log, iNova camera initialized: True

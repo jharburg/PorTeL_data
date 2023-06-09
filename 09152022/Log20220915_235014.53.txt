@@ -1,0 +1,3 @@
+20220915_235014.89: Main form log, SKY2000V5 star catalog loaded.
+20220915_235015.13: Main form log, Star ID initialized.
+20220915_235057.31: Main form log, Mount connected on port 'COM3'

@@ -1,0 +1,29 @@
+20221019_005358.66: Main form log, SKY2000V5 star catalog loaded.
+20221019_005358.80: Main form log, Star ID initialized.
+20221019_005408.43: Main form log, Mount connected on port 'COM4'
+20221019_005413.97: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221019_005435.44: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\GS_Tracking_KR\bin\Release\20220915_203021.53.acal
+20221019_005447.52: Main form log, Tracking star 18360206.
+20221019_005447.52: Main form log, RA: 4.87356551168385, DEC: 0.676901709701945
+20221019_005447.52: Main form log, ENU Azi: -78.3101235689164, ENU Alt: 52.2595514214876
+20221019_005450.99: Main form log, Stop command sent.
+20221019_005450.99: Main form log, dq cleared.
+20221019_005453.84: Main form log, Tracking star 18360206.
+20221019_005453.84: Main form log, RA: 4.87356551168385, DEC: 0.676901709701945
+20221019_005453.84: Main form log, ENU Azi: -78.297330851155, ENU Alt: 52.2405153113111
+20221019_005456.68: Main form log, iNova camera initialized: False
+20221019_005525.21: Main form log, Capture time: 0.003 s.
+20221019_005539.76: Main form log, Capture time: 0 s.
+20221019_005546.92: Main form log, Stop command sent.
+20221019_005546.92: Main form log, dq cleared.
+20221019_005551.57: Main form log, Tracking star 18360206.
+20221019_005551.58: Main form log, RA: 4.87356551168385, DEC: 0.676901709701945
+20221019_005551.58: Main form log, ENU Azi: -78.1805921023112, ENU Alt: 52.0667076866204
+20221019_005612.06: Main form log, Stop command sent.
+20221019_005612.06: Main form log, dq cleared.
+20221019_005648.91: Main form log, Tracking star 18360206.
+20221019_005648.91: Main form log, RA: 4.87356551168385, DEC: 0.676901709701945
+20221019_005648.92: Main form log, ENU Azi: -78.064820533534, ENU Alt: 51.8941744535326
+20221019_005705.13: Main form log, Stop command sent.
+20221019_005705.13: Main form log, dq cleared.
+20221019_005705.91: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.

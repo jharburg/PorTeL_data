@@ -1,0 +1,15 @@
+20221012_005830.82: Main form log, SKY2000V5 star catalog loaded.
+20221012_005830.96: Main form log, Star ID initialized.
+20221012_005836.00: Main form log, Mount connected on port 'COM7'
+20221012_005836.94: Main form log, Initialization success: FSM.
+20221012_005841.36: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\GS_Tracking_KR\bin\Release\20220915_203021.53.acal
+20221012_005846.38: Main form log, Tracking star 18360206.
+20221012_005846.38: Main form log, RA: 4.87356551168385, DEC: 0.676901709701945
+20221012_005846.38: Main form log, ENU Azi: -81.2298125424363, ENU Alt: 56.5331183938571
+20221012_005852.63: Main form log, Initialization success: IR camera.
+20221012_005853.69: Main form log, Start grab with tracking camera.
+20221012_005919.58: Main form log, FSM closed loop tracking initiated.
+20221012_010025.48: Main form log, FSM closed loop tracking stopped.
+20221012_010028.78: Main form log, Stop command sent.
+20221012_010028.78: Main form log, dq cleared.
+20221012_010037.76: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.

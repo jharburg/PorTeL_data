@@ -1,0 +1,7 @@
+20221129_004740.84: Main form log, SKY2000V5 star catalog loaded.
+20221129_004740.98: Main form log, Star ID initialized.
+20221129_004745.66: Main form log, Mount connected on port 'COM4'
+20221129_004752.80: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221129_004813.00: Main form log, Stop command sent.
+20221129_004813.00: Main form log, dq cleared.
+20221129_004817.94: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.

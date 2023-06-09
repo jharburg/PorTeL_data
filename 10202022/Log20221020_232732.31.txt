@@ -1,0 +1,28 @@
+20221020_232732.67: Main form log, SKY2000V5 star catalog loaded.
+20221020_232732.81: Main form log, Star ID initialized.
+20221020_232736.35: Main form log, Mount connected on port 'COM4'
+20221020_232747.53: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\GS_Tracking_KR\bin\Release\20220915_203021.53.acal
+20221020_232750.71: Main form log, Tracking star 17140107.
+20221020_232750.71: Main form log, RA: 4.51452542458686, DEC: 0.251148031225173
+20221020_232750.71: Main form log, ENU Azi: -107.036896622481, ENU Alt: 38.1016582733756
+20221020_232757.15: Main form log, iNova camera initialized: True
+20221020_232815.99: Main form log, Star camera image 20221020_232812.38 added for calibration.
+20221020_232816.11: Star Cam Display Form: Identified 8 stars.
+20221020_232816.11: Star Cam Display Form: RMSE: 3.92 arcseconds
+20221020_232816.11: Star Cam Display Form: Max score: 50.54
+20221020_232816.20: Main form log, Displaying image 20221020_232812.38
+20221020_232816.25: Main form log, Capture time: 4.293 s.
+20221020_232824.46: Main form log, Initialization success: FSM.
+20221020_232854.52: Main form log, LOS set to pixels (641, 493).
+20221020_232854.52: Main form log, LOS_ST = (9.03251102934322E-05, 0.00136545456073304, 0.99999906368717).
+20221020_232854.52: Star Cam Display Form: LOS set to X: 641, Y: 493
+20221020_232856.75: Main form log, LOS set to pixels (642, 493).
+20221020_232856.75: Main form log, LOS_ST = (0.000197235483204317, 0.00136545683396985, 0.999999048312447).
+20221020_232856.75: Star Cam Display Form: LOS set to X: 642, Y: 493
+20221020_233346.36: Main form log, Initialization success: IR camera.
+20221020_233350.27: Main form log, Start grab with tracking camera.
+20221020_233401.82: Main form log, Stop command sent.
+20221020_233401.82: Main form log, dq cleared.
+20221020_233629.13: Main form log, Stop command sent.
+20221020_233629.13: Main form log, dq cleared.
+20221020_233634.11: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.

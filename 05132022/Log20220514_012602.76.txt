@@ -1,0 +1,802 @@
+20220514_012603.37: Main form log, SKY2000V5 star catalog loaded.
+20220514_012603.45: Main form log, Star ID initialized.
+20220514_012614.12: Main form log, iNova camera initialized: True
+20220514_012615.32: Main form log, Mount connected on port 'COM7'
+20220514_012618.49: Main form log, Initialization success: FSM.
+20220514_012620.75: Main form log, Initialization success: IR camera.
+20220514_012716.60: Main form log, Star camera image 20220514_012716.05 added for calibration.
+20220514_012716.75: Star Cam Display Form: Identified 10 stars.
+20220514_012716.75: Star Cam Display Form: RMSE: 3.24 arcseconds
+20220514_012716.75: Star Cam Display Form: Max score: 101.14
+20220514_012716.92: Main form log, Displaying image 20220514_012716.05
+20220514_012716.99: Main form log, Capture time: 1.3520774 s.
+20220514_012750.93: Main form log, Star camera image 20220514_012750.46 added for calibration.
+20220514_012751.07: Star Cam Display Form: Identified 8 stars.
+20220514_012751.07: Star Cam Display Form: RMSE: 3.21 arcseconds
+20220514_012751.07: Star Cam Display Form: Max score: 95.35
+20220514_012751.15: Main form log, Displaying image 20220514_012750.46
+20220514_012751.19: Main form log, Capture time: 1.1660667 s.
+20220514_012815.68: Main form log, Star camera image 20220514_012815.26 added for calibration.
+20220514_012815.86: Star Cam Display Form: Identified 9 stars.
+20220514_012815.86: Star Cam Display Form: RMSE: 2.85 arcseconds
+20220514_012815.86: Star Cam Display Form: Max score: 103.58
+20220514_012815.94: Main form log, Displaying image 20220514_012815.26
+20220514_012816.04: Main form log, Capture time: 1.1280645 s.
+20220514_012838.96: Main form log, Failed to take picture from star camera.
+20220514_012839.71: Main form log, Star camera image 20220514_012839.26 added for calibration.
+20220514_012839.87: Star Cam Display Form: Identified 11 stars.
+20220514_012839.87: Star Cam Display Form: RMSE: 3.29 arcseconds
+20220514_012839.87: Star Cam Display Form: Max score: 178.97
+20220514_012839.95: Main form log, Displaying image 20220514_012839.26
+20220514_012840.07: Main form log, Capture time: 1.380079 s.
+20220514_012859.42: Main form log, Failed to take picture from star camera.
+20220514_012900.01: Main form log, Star camera image 20220514_012859.67 added for calibration.
+20220514_012900.17: Star Cam Display Form: Identified 10 stars.
+20220514_012900.17: Star Cam Display Form: RMSE: 2.85 arcseconds
+20220514_012900.17: Star Cam Display Form: Max score: 149.23
+20220514_012900.26: Main form log, Displaying image 20220514_012859.67
+20220514_012900.38: Main form log, Capture time: 1.3800789 s.
+20220514_012932.74: Star Cam Display Form: Identified 6 stars.
+20220514_012932.74: Star Cam Display Form: RMSE: 3.78 arcseconds
+20220514_012932.74: Star Cam Display Form: Max score: 43.47
+20220514_012932.82: Main form log, Displaying image 20220514_012932.06
+20220514_012932.87: Main form log, Capture time: 1.2040689 s.
+20220514_013010.12: Main form log, Star camera image 20220514_013009.66 added for calibration.
+20220514_013010.27: Star Cam Display Form: Identified 8 stars.
+20220514_013010.27: Star Cam Display Form: RMSE: 5.58 arcseconds
+20220514_013010.27: Star Cam Display Form: Max score: 35.60
+20220514_013010.36: Main form log, Displaying image 20220514_013009.66
+20220514_013010.48: Main form log, Capture time: 1.2310704 s.
+20220514_013037.78: Main form log, Failed to take picture from star camera.
+20220514_013038.52: Main form log, Star camera image 20220514_013038.06 added for calibration.
+20220514_013038.67: Star Cam Display Form: Identified 11 stars.
+20220514_013038.67: Star Cam Display Form: RMSE: 6.26 arcseconds
+20220514_013038.67: Star Cam Display Form: Max score: 158.47
+20220514_013038.76: Main form log, Displaying image 20220514_013038.06
+20220514_013038.90: Main form log, Capture time: 1.5160867 s.
+20220514_013112.81: Main form log, Star camera image 20220514_013112.46 added for calibration.
+20220514_013112.96: Star Cam Display Form: Identified 9 stars.
+20220514_013112.96: Star Cam Display Form: RMSE: 3.42 arcseconds
+20220514_013112.96: Star Cam Display Form: Max score: 119.01
+20220514_013113.04: Main form log, Displaying image 20220514_013112.46
+20220514_013113.19: Main form log, Capture time: 1.1400652 s.
+20220514_013146.56: Main form log, Failed to take picture from star camera.
+20220514_013147.21: Main form log, Star camera image 20220514_013146.86 added for calibration.
+20220514_013147.35: Star Cam Display Form: Identified 10 stars.
+20220514_013147.35: Star Cam Display Form: RMSE: 5.21 arcseconds
+20220514_013147.36: Star Cam Display Form: Max score: 128.52
+20220514_013147.52: Main form log, Displaying image 20220514_013146.86
+20220514_013147.56: Main form log, Capture time: 1.3360764 s.
+20220514_013207.27: Main form log, Star camera image 20220514_013206.86 added for calibration.
+20220514_013207.41: Star Cam Display Form: Identified 11 stars.
+20220514_013207.41: Star Cam Display Form: RMSE: 4.22 arcseconds
+20220514_013207.42: Star Cam Display Form: Max score: 153.94
+20220514_013207.55: Main form log, Displaying image 20220514_013206.86
+20220514_013207.60: Main form log, Capture time: 1.2020687 s.
+20220514_013229.36: Main form log, Failed to take picture from star camera.
+20220514_013230.18: Main form log, Star camera image 20220514_013229.66 added for calibration.
+20220514_013230.33: Star Cam Display Form: Identified 10 stars.
+20220514_013230.33: Star Cam Display Form: RMSE: 4.34 arcseconds
+20220514_013230.33: Star Cam Display Form: Max score: 100.80
+20220514_013230.41: Main form log, Displaying image 20220514_013229.66
+20220514_013230.53: Main form log, Capture time: 1.3840792 s.
+20220514_013316.17: Main form log, Failed to take picture from star camera.
+20220514_013316.88: Main form log, Star camera image 20220514_013316.47 added for calibration.
+20220514_013317.02: Star Cam Display Form: Identified 8 stars.
+20220514_013317.02: Star Cam Display Form: RMSE: 5.86 arcseconds
+20220514_013317.02: Star Cam Display Form: Max score: 76.23
+20220514_013317.10: Main form log, Displaying image 20220514_013316.47
+20220514_013317.29: Main form log, Capture time: 1.2390709 s.
+20220514_013402.57: Main form log, Failed to take picture from star camera.
+20220514_013403.35: Main form log, Star camera image 20220514_013402.87 added for calibration.
+20220514_013403.50: Star Cam Display Form: Identified 8 stars.
+20220514_013403.50: Star Cam Display Form: RMSE: 6.20 arcseconds
+20220514_013403.50: Star Cam Display Form: Max score: 76.19
+20220514_013403.57: Main form log, Displaying image 20220514_013402.87
+20220514_013403.78: Main form log, Capture time: 1.2830734 s.
+20220514_013444.18: Main form log, Failed to take picture from star camera.
+20220514_013444.96: Main form log, Star camera image 20220514_013444.48 added for calibration.
+20220514_013445.11: Star Cam Display Form: Identified 8 stars.
+20220514_013445.11: Star Cam Display Form: RMSE: 3.68 arcseconds
+20220514_013445.11: Star Cam Display Form: Max score: 51.52
+20220514_013445.32: Main form log, Displaying image 20220514_013444.48
+20220514_013445.37: Main form log, Capture time: 1.5580891 s.
+20220514_013504.92: Main form log, Star camera image 20220514_013504.48 added for calibration.
+20220514_013505.07: Star Cam Display Form: Identified 10 stars.
+20220514_013505.07: Star Cam Display Form: RMSE: 4.57 arcseconds
+20220514_013505.07: Star Cam Display Form: Max score: 103.01
+20220514_013505.15: Main form log, Displaying image 20220514_013504.48
+20220514_013505.34: Main form log, Capture time: 1.2030688 s.
+20220514_013539.33: Main form log, Star camera image 20220514_013538.88 added for calibration.
+20220514_013539.48: Star Cam Display Form: Identified 9 stars.
+20220514_013539.48: Star Cam Display Form: RMSE: 3.93 arcseconds
+20220514_013539.48: Star Cam Display Form: Max score: 77.04
+20220514_013539.56: Main form log, Displaying image 20220514_013538.88
+20220514_013539.63: Main form log, Capture time: 1.119064 s.
+20220514_013603.27: Main form log, Star camera image 20220514_013602.89 added for calibration.
+20220514_013603.42: Star Cam Display Form: Identified 8 stars.
+20220514_013603.42: Star Cam Display Form: RMSE: 6.44 arcseconds
+20220514_013603.42: Star Cam Display Form: Max score: 91.43
+20220514_013603.50: Main form log, Displaying image 20220514_013602.89
+20220514_013603.74: Main form log, Capture time: 1.1170639 s.
+20220514_013640.12: Main form log, Failed to take picture from star camera.
+20220514_013641.06: Star Cam Display Form: Identified 7 stars.
+20220514_013641.06: Star Cam Display Form: RMSE: 6.79 arcseconds
+20220514_013641.06: Star Cam Display Form: Max score: 21.26
+20220514_013641.15: Main form log, Displaying image 20220514_013640.43
+20220514_013641.20: Main form log, Capture time: 1.3540775 s.
+20220514_013712.53: Main form log, Failed to take picture from star camera.
+20220514_013713.25: Main form log, Star camera image 20220514_013712.83 added for calibration.
+20220514_013713.40: Star Cam Display Form: Identified 10 stars.
+20220514_013713.40: Star Cam Display Form: RMSE: 1.75 arcseconds
+20220514_013713.40: Star Cam Display Form: Max score: 141.73
+20220514_013713.48: Main form log, Displaying image 20220514_013712.83
+20220514_013713.58: Main form log, Capture time: 1.2630722 s.
+20220514_013733.25: Main form log, Star camera image 20220514_013732.83 added for calibration.
+20220514_013733.40: Star Cam Display Form: Identified 7 stars.
+20220514_013733.40: Star Cam Display Form: RMSE: 1.54 arcseconds
+20220514_013733.40: Star Cam Display Form: Max score: 60.72
+20220514_013733.48: Main form log, Displaying image 20220514_013732.83
+20220514_013733.52: Main form log, Capture time: 1.119064 s.
+20220514_013805.73: Main form log, Failed to take picture from star camera.
+20220514_013806.40: Main form log, Star camera image 20220514_013806.03 added for calibration.
+20220514_013806.54: Star Cam Display Form: Identified 8 stars.
+20220514_013806.54: Star Cam Display Form: RMSE: 4.31 arcseconds
+20220514_013806.54: Star Cam Display Form: Max score: 88.92
+20220514_013806.62: Main form log, Displaying image 20220514_013806.03
+20220514_013806.70: Main form log, Capture time: 1.2780731 s.
+20220514_013806.80: Main form log, Telescope pointing calibration RMSE: 62.6753438692266 arcseconds.
+20220514_013933.51: Main form log, Start grab.
+20220514_013942.94: Main form log, Tracking star 14150093.
+20220514_013942.94: Main form log, RA: 3.73352632720804, DEC: 0.334792935627001
+20220514_014016.12: Main form log, Failed to take picture from star camera.
+20220514_014016.82: Main form log, Star camera image 20220514_014016.45 added for calibration.
+20220514_014016.97: Star Cam Display Form: Identified 13 stars.
+20220514_014016.97: Star Cam Display Form: RMSE: 8.89 arcseconds
+20220514_014016.97: Star Cam Display Form: Max score: 199.39
+20220514_014017.05: Main form log, Displaying image 20220514_014016.45
+20220514_014017.23: Main form log, Capture time: 1.2460713 s.
+20220514_014019.72: Main form log, Failed to take picture from star camera.
+20220514_014020.40: Main form log, Star camera image 20220514_014020.05 added for calibration.
+20220514_014020.56: Star Cam Display Form: Identified 13 stars.
+20220514_014020.56: Star Cam Display Form: RMSE: 9.38 arcseconds
+20220514_014020.57: Star Cam Display Form: Max score: 198.00
+20220514_014020.64: Main form log, Displaying image 20220514_014020.05
+20220514_014020.83: Main form log, Capture time: 1.3750786 s.
+20220514_014056.12: Main form log, Failed to take picture from star camera.
+20220514_014056.83: Main form log, Star camera image 20220514_014056.45 added for calibration.
+20220514_014057.00: Star Cam Display Form: Identified 14 stars.
+20220514_014057.00: Star Cam Display Form: RMSE: 10.16 arcseconds
+20220514_014057.00: Star Cam Display Form: Max score: 209.51
+20220514_014057.09: Main form log, Displaying image 20220514_014056.45
+20220514_014057.21: Main form log, Capture time: 1.2380708 s.
+20220514_014108.59: Main form log, Stop command sent.
+20220514_014108.59: Main form log, dq cleared.
+20220514_014235.58: Main form log, Star camera image 20220514_014235.26 added for calibration.
+20220514_014235.73: Star Cam Display Form: Identified 12 stars.
+20220514_014235.73: Star Cam Display Form: RMSE: 9.09 arcseconds
+20220514_014235.73: Star Cam Display Form: Max score: 188.65
+20220514_014235.89: Main form log, Displaying image 20220514_014235.26
+20220514_014235.93: Main form log, Capture time: 1.1560661 s.
+20220514_014241.59: Star Cam Display Form: LOS set to X: 596, Y: 523
+20220514_014251.37: Main form log, Tracking star 14150093.
+20220514_014251.37: Main form log, RA: 3.73352632720804, DEC: 0.334792935627001
+20220514_014324.04: Main form log, FSM closed loop tracking initiated.
+20220514_014525.28: Main form log, Satellite appears in 1.35 minutes
+20220514_014525.28: Main form log, The pass starts at 2022-05-13 21:46:46.27 local time.
+20220514_014525.28: Main form log, Mount Azi: 99.156 deg, Mount Alt: 5.051 deg
+20220514_014525.29: Main form log, ENU Azi: -74.417 deg, ENU Ele: 4.616 deg
+20220514_014533.17: Main form log, Stop command sent.
+20220514_014533.17: Main form log, dq cleared.
+20220514_014544.50: Main form log, TLE track initiated.
+20220514_014544.50: Main form log, Mount commanded to Azi 99.16 deg, Alt 5.05 deg.
+20220514_014624.35: Main form log, Exposure set to 100 (ms)
+20220514_014731.96: Main form log, Exposure set to 100 (ms)
+20220514_014948.48: Star Cam Display Form: Identified 2 stars.
+20220514_014948.48: Star Cam Display Form: RMSE: 292,199.33 arcseconds
+20220514_014948.48: Star Cam Display Form: Max score: 5.80
+20220514_014948.56: Main form log, Displaying image 20220514_014948.09
+20220514_014948.60: Main form log, Capture time: 0.7360421 s.
+20220514_014950.63: Star Cam Display Form: Identified 6 stars.
+20220514_014950.63: Star Cam Display Form: RMSE: 37.06 arcseconds
+20220514_014950.63: Star Cam Display Form: Max score: 15.85
+20220514_014950.71: Main form log, Displaying image 20220514_014950.17
+20220514_014950.77: Main form log, Capture time: 0.7880451 s.
+20220514_014951.94: Star Cam Display Form: Identified 2 stars.
+20220514_014951.94: Star Cam Display Form: RMSE: 388,101.62 arcseconds
+20220514_014951.94: Star Cam Display Form: Max score: 1.21
+20220514_014952.03: Main form log, Displaying image 20220514_014951.70
+20220514_014952.08: Main form log, Capture time: 0.5870336 s.
+20220514_014956.52: Star Cam Display Form: Identified 0 stars.
+20220514_014956.52: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_014956.52: Star Cam Display Form: Max score: 0.00
+20220514_014956.60: Main form log, Displaying image 20220514_014956.28
+20220514_014958.33: Star Cam Display Form: Identified 0 stars.
+20220514_014958.33: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_014958.33: Star Cam Display Form: Max score: 0.00
+20220514_014958.41: Main form log, Displaying image 20220514_014958.08
+20220514_015000.62: Star Cam Display Form: Automated feedback enabled.
+20220514_015000.62: Main form log, Displaying image 20220514_015000.30
+20220514_015000.62: Main form log, Feedback from brightest star: correction of 4959.358 arcsec.
+20220514_015002.57: Star Cam Display Form: Automated feedback enabled.
+20220514_015002.57: Main form log, Displaying image 20220514_015002.25
+20220514_015002.57: Main form log, Feedback from brightest star: correction of 1281.622 arcsec.
+20220514_015004.65: Star Cam Display Form: Automated feedback enabled.
+20220514_015004.65: Main form log, Displaying image 20220514_015004.33
+20220514_015004.65: Main form log, Feedback from brightest star: correction of 1681.617 arcsec.
+20220514_015006.59: Star Cam Display Form: Automated feedback enabled.
+20220514_015006.59: Main form log, Displaying image 20220514_015006.27
+20220514_015006.59: Main form log, Feedback from brightest star: correction of 196.893 arcsec.
+20220514_015008.68: Star Cam Display Form: Automated feedback enabled.
+20220514_015008.68: Main form log, Displaying image 20220514_015008.35
+20220514_015008.68: Main form log, Feedback from brightest star: correction of 198.104 arcsec.
+20220514_015010.62: Star Cam Display Form: Automated feedback enabled.
+20220514_015010.62: Main form log, Displaying image 20220514_015010.30
+20220514_015010.62: Main form log, Feedback from brightest star: correction of 227.872 arcsec.
+20220514_015012.72: Star Cam Display Form: Automated feedback enabled.
+20220514_015012.72: Main form log, Displaying image 20220514_015012.38
+20220514_015012.72: Main form log, Feedback from brightest star: correction of 251.211 arcsec.
+20220514_015012.94: Main form log, FSM closed loop tracking initiated.
+20220514_015014.78: Star Cam Display Form: Automated feedback enabled.
+20220514_015014.78: Main form log, Displaying image 20220514_015014.46
+20220514_015014.78: Main form log, Feedback from brightest star: correction of 270.631 arcsec.
+20220514_015016.58: Star Cam Display Form: Automated feedback enabled.
+20220514_015016.58: Main form log, Displaying image 20220514_015016.27
+20220514_015016.58: Main form log, Feedback from brightest star: correction of 237.031 arcsec.
+20220514_015018.80: Star Cam Display Form: Automated feedback enabled.
+20220514_015018.80: Main form log, Displaying image 20220514_015018.49
+20220514_015018.81: Main form log, Feedback from brightest star: correction of 287.941 arcsec.
+20220514_015020.61: Star Cam Display Form: Automated feedback enabled.
+20220514_015020.61: Main form log, Displaying image 20220514_015020.29
+20220514_015020.61: Main form log, Feedback from brightest star: correction of 263.289 arcsec.
+20220514_015022.83: Star Cam Display Form: Automated feedback enabled.
+20220514_015022.84: Main form log, Displaying image 20220514_015022.51
+20220514_015022.84: Main form log, Feedback from brightest star: correction of 318.399 arcsec.
+20220514_015024.91: Star Cam Display Form: Automated feedback enabled.
+20220514_015024.91: Main form log, Displaying image 20220514_015024.59
+20220514_015024.92: Main form log, Feedback from brightest star: correction of 302.512 arcsec.
+20220514_015026.71: Star Cam Display Form: Automated feedback enabled.
+20220514_015026.71: Main form log, Displaying image 20220514_015026.40
+20220514_015026.72: Main form log, Feedback from brightest star: correction of 274.724 arcsec.
+20220514_015028.68: Star Cam Display Form: Automated feedback enabled.
+20220514_015028.68: Main form log, Displaying image 20220514_015028.34
+20220514_015028.69: Main form log, Feedback from brightest star: correction of 226.613 arcsec.
+20220514_015029.41: Main form log, FSM closed loop tracking initiated.
+20220514_015030.74: Star Cam Display Form: Automated feedback enabled.
+20220514_015030.74: Main form log, Displaying image 20220514_015030.42
+20220514_015030.74: Main form log, No star cam feedback: inconsistent location.
+20220514_015032.82: Star Cam Display Form: Automated feedback enabled.
+20220514_015032.82: Main form log, Displaying image 20220514_015032.51
+20220514_015032.82: Main form log, No star cam feedback: inconsistent location.
+20220514_015034.76: Star Cam Display Form: Automated feedback enabled.
+20220514_015034.76: Main form log, Displaying image 20220514_015034.45
+20220514_015034.77: Main form log, No star cam feedback: inconsistent location.
+20220514_015036.85: Star Cam Display Form: Automated feedback enabled.
+20220514_015036.85: Main form log, Displaying image 20220514_015036.53
+20220514_015036.85: Main form log, No star cam feedback: inconsistent location.
+20220514_015038.79: Star Cam Display Form: Automated feedback enabled.
+20220514_015038.79: Main form log, Displaying image 20220514_015038.48
+20220514_015038.79: Main form log, No star cam feedback: inconsistent location.
+20220514_015040.87: Star Cam Display Form: Automated feedback enabled.
+20220514_015040.87: Main form log, Displaying image 20220514_015040.56
+20220514_015040.89: Main form log, No star cam feedback: inconsistent location.
+20220514_015042.82: Star Cam Display Form: Automated feedback enabled.
+20220514_015042.82: Main form log, Displaying image 20220514_015042.50
+20220514_015042.82: Main form log, No star cam feedback: inconsistent location.
+20220514_015043.77: Main form log, Stop command sent.
+20220514_015043.78: Main form log, dq cleared.
+20220514_015044.62: Star Cam Display Form: Automated feedback enabled.
+20220514_015044.62: Main form log, Displaying image 20220514_015044.31
+20220514_015044.62: Main form log, Feedback from brightest star: correction of 2128.893 arcsec.
+20220514_015046.69: Star Cam Display Form: Automated feedback enabled.
+20220514_015046.70: Main form log, Displaying image 20220514_015046.39
+20220514_015046.70: Main form log, Feedback from brightest star: correction of 8286.724 arcsec.
+20220514_015048.64: Star Cam Display Form: Automated feedback enabled.
+20220514_015048.64: Main form log, Displaying image 20220514_015048.33
+20220514_015048.64: Main form log, No star cam feedback: object not bright enough.
+20220514_015050.76: Star Cam Display Form: Automated feedback enabled.
+20220514_015050.77: Main form log, Displaying image 20220514_015050.41
+20220514_015050.77: Main form log, No star cam feedback: object not bright enough.
+20220514_015052.66: Star Cam Display Form: Automated feedback enabled.
+20220514_015052.67: Main form log, Displaying image 20220514_015052.36
+20220514_015052.67: Main form log, No star cam feedback: object not bright enough.
+20220514_015054.74: Star Cam Display Form: Automated feedback enabled.
+20220514_015054.75: Main form log, Displaying image 20220514_015054.44
+20220514_015054.75: Main form log, No star cam feedback: object not bright enough.
+20220514_015056.69: Star Cam Display Form: Automated feedback enabled.
+20220514_015056.69: Main form log, Displaying image 20220514_015056.38
+20220514_015056.69: Main form log, No star cam feedback: object not bright enough.
+20220514_015058.77: Star Cam Display Form: Automated feedback enabled.
+20220514_015058.77: Main form log, Displaying image 20220514_015058.46
+20220514_015058.77: Main form log, No star cam feedback: object not bright enough.
+20220514_015100.71: Star Cam Display Form: Automated feedback enabled.
+20220514_015100.71: Main form log, Displaying image 20220514_015100.41
+20220514_015100.72: Main form log, No star cam feedback: object not bright enough.
+20220514_015102.80: Star Cam Display Form: Automated feedback enabled.
+20220514_015102.80: Main form log, Displaying image 20220514_015102.49
+20220514_015102.80: Main form log, No star cam feedback: object not bright enough.
+20220514_015104.49: Main form log, Failed to take picture from star camera.
+20220514_015106.82: Star Cam Display Form: Automated feedback enabled.
+20220514_015106.82: Main form log, Displaying image 20220514_015106.51
+20220514_015106.82: Main form log, No star cam feedback: object not bright enough.
+20220514_015108.77: Star Cam Display Form: Automated feedback enabled.
+20220514_015108.77: Main form log, Displaying image 20220514_015108.46
+20220514_015108.77: Main form log, No star cam feedback: object not bright enough.
+20220514_015110.85: Star Cam Display Form: Automated feedback enabled.
+20220514_015110.85: Main form log, Displaying image 20220514_015110.54
+20220514_015110.85: Main form log, No star cam feedback: object not bright enough.
+20220514_015112.79: Star Cam Display Form: Automated feedback enabled.
+20220514_015112.79: Main form log, Displaying image 20220514_015112.48
+20220514_015112.79: Main form log, No star cam feedback: object not bright enough.
+20220514_015114.91: Star Cam Display Form: Automated feedback enabled.
+20220514_015114.92: Main form log, Displaying image 20220514_015114.56
+20220514_015114.92: Main form log, No star cam feedback: object not bright enough.
+20220514_015156.49: Main form log, Satellite appears in 1.90 minutes
+20220514_015156.49: Main form log, The pass starts at 2022-05-13 21:53:50.47 local time.
+20220514_015156.49: Main form log, Mount Azi: 47.134 deg, Mount Alt: 5.003 deg
+20220514_015156.49: Main form log, ENU Azi: -129.152 deg, ENU Ele: 4.349 deg
+20220514_015206.30: Main form log, TLE track initiated.
+20220514_015206.30: Main form log, Mount commanded to Azi 47.13 deg, Alt 5.00 deg.
+20220514_015535.58: Main form log, Failed to take picture from star camera.
+20220514_015537.69: Star Cam Display Form: Identified 0 stars.
+20220514_015537.69: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015537.69: Star Cam Display Form: Max score: 0.00
+20220514_015537.79: Main form log, Displaying image 20220514_015537.45
+20220514_015539.77: Star Cam Display Form: Identified 0 stars.
+20220514_015539.77: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015539.77: Star Cam Display Form: Max score: 0.00
+20220514_015539.87: Main form log, Displaying image 20220514_015539.53
+20220514_015541.88: Star Cam Display Form: Identified 0 stars.
+20220514_015541.88: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015541.88: Star Cam Display Form: Max score: 0.00
+20220514_015541.99: Main form log, Displaying image 20220514_015541.62
+20220514_015543.94: Star Cam Display Form: Identified 0 stars.
+20220514_015543.94: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015543.94: Star Cam Display Form: Max score: 0.00
+20220514_015544.01: Main form log, Displaying image 20220514_015543.70
+20220514_015545.74: Star Cam Display Form: Identified 0 stars.
+20220514_015545.74: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015545.74: Star Cam Display Form: Max score: 0.00
+20220514_015545.84: Main form log, Displaying image 20220514_015545.50
+20220514_015547.96: Star Cam Display Form: Identified 0 stars.
+20220514_015547.96: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015547.96: Star Cam Display Form: Max score: 0.00
+20220514_015548.06: Main form log, Displaying image 20220514_015547.72
+20220514_015549.77: Star Cam Display Form: Identified 0 stars.
+20220514_015549.77: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015549.77: Star Cam Display Form: Max score: 0.00
+20220514_015549.85: Main form log, Displaying image 20220514_015549.53
+20220514_015551.85: Star Cam Display Form: Identified 0 stars.
+20220514_015551.85: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015551.85: Star Cam Display Form: Max score: 0.00
+20220514_015551.93: Main form log, Displaying image 20220514_015551.61
+20220514_015553.93: Star Cam Display Form: Identified 0 stars.
+20220514_015553.93: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015553.93: Star Cam Display Form: Max score: 0.00
+20220514_015554.02: Main form log, Displaying image 20220514_015553.69
+20220514_015555.88: Star Cam Display Form: Identified 0 stars.
+20220514_015555.88: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015555.88: Star Cam Display Form: Max score: 0.00
+20220514_015555.96: Main form log, Displaying image 20220514_015555.64
+20220514_015557.96: Star Cam Display Form: Identified 0 stars.
+20220514_015557.96: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015557.96: Star Cam Display Form: Max score: 0.00
+20220514_015558.04: Main form log, Displaying image 20220514_015557.72
+20220514_015559.90: Star Cam Display Form: Identified 0 stars.
+20220514_015559.90: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015559.90: Star Cam Display Form: Max score: 0.00
+20220514_015559.99: Main form log, Displaying image 20220514_015559.66
+20220514_015601.98: Star Cam Display Form: Identified 0 stars.
+20220514_015601.98: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015601.99: Star Cam Display Form: Max score: 0.00
+20220514_015602.06: Main form log, Displaying image 20220514_015601.74
+20220514_015603.93: Star Cam Display Form: Identified 0 stars.
+20220514_015603.93: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015603.93: Star Cam Display Form: Max score: 0.00
+20220514_015604.03: Main form log, Displaying image 20220514_015603.69
+20220514_015606.01: Star Cam Display Form: Identified 0 stars.
+20220514_015606.01: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015606.01: Star Cam Display Form: Max score: 0.00
+20220514_015606.09: Main form log, Displaying image 20220514_015605.77
+20220514_015607.95: Star Cam Display Form: Identified 0 stars.
+20220514_015607.95: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015607.95: Star Cam Display Form: Max score: 0.00
+20220514_015608.03: Main form log, Displaying image 20220514_015607.71
+20220514_015610.03: Star Cam Display Form: Identified 0 stars.
+20220514_015610.03: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015610.03: Star Cam Display Form: Max score: 0.00
+20220514_015610.11: Main form log, Displaying image 20220514_015609.79
+20220514_015611.98: Star Cam Display Form: Identified 0 stars.
+20220514_015611.98: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015611.98: Star Cam Display Form: Max score: 0.00
+20220514_015612.06: Main form log, Displaying image 20220514_015611.74
+20220514_015613.92: Star Cam Display Form: Identified 0 stars.
+20220514_015613.92: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015613.93: Star Cam Display Form: Max score: 0.00
+20220514_015614.01: Main form log, Displaying image 20220514_015613.68
+20220514_015616.14: Star Cam Display Form: Identified 0 stars.
+20220514_015616.14: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015616.14: Star Cam Display Form: Max score: 0.00
+20220514_015616.23: Main form log, Displaying image 20220514_015615.90
+20220514_015617.94: Star Cam Display Form: Identified 0 stars.
+20220514_015617.94: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015617.94: Star Cam Display Form: Max score: 0.00
+20220514_015618.02: Main form log, Displaying image 20220514_015617.71
+20220514_015620.02: Star Cam Display Form: Identified 0 stars.
+20220514_015620.03: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015620.03: Star Cam Display Form: Max score: 0.00
+20220514_015620.10: Main form log, Displaying image 20220514_015619.79
+20220514_015622.11: Star Cam Display Form: Identified 0 stars.
+20220514_015622.11: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015622.11: Star Cam Display Form: Max score: 0.00
+20220514_015622.21: Main form log, Displaying image 20220514_015621.87
+20220514_015624.05: Star Cam Display Form: Identified 0 stars.
+20220514_015624.05: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015624.05: Star Cam Display Form: Max score: 0.00
+20220514_015624.13: Main form log, Displaying image 20220514_015623.81
+20220514_015626.00: Star Cam Display Form: Identified 0 stars.
+20220514_015626.00: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015626.00: Star Cam Display Form: Max score: 0.00
+20220514_015626.08: Main form log, Displaying image 20220514_015625.76
+20220514_015628.22: Star Cam Display Form: Identified 0 stars.
+20220514_015628.22: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015628.22: Star Cam Display Form: Max score: 0.00
+20220514_015628.30: Main form log, Displaying image 20220514_015627.98
+20220514_015630.16: Star Cam Display Form: Identified 0 stars.
+20220514_015630.16: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015630.16: Star Cam Display Form: Max score: 0.00
+20220514_015630.25: Main form log, Displaying image 20220514_015629.92
+20220514_015632.10: Star Cam Display Form: Identified 0 stars.
+20220514_015632.10: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015632.10: Star Cam Display Form: Max score: 0.00
+20220514_015632.19: Main form log, Displaying image 20220514_015631.86
+20220514_015634.18: Star Cam Display Form: Identified 0 stars.
+20220514_015634.18: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015634.18: Star Cam Display Form: Max score: 0.00
+20220514_015634.26: Main form log, Displaying image 20220514_015633.95
+20220514_015636.13: Star Cam Display Form: Identified 0 stars.
+20220514_015636.13: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015636.13: Star Cam Display Form: Max score: 0.00
+20220514_015636.21: Main form log, Displaying image 20220514_015635.89
+20220514_015638.21: Star Cam Display Form: Identified 0 stars.
+20220514_015638.21: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015638.21: Star Cam Display Form: Max score: 0.00
+20220514_015638.30: Main form log, Displaying image 20220514_015637.97
+20220514_015640.16: Star Cam Display Form: Identified 0 stars.
+20220514_015640.16: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015640.16: Star Cam Display Form: Max score: 0.00
+20220514_015640.24: Main form log, Displaying image 20220514_015639.91
+20220514_015642.11: Star Cam Display Form: Identified 0 stars.
+20220514_015642.11: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015642.11: Star Cam Display Form: Max score: 0.00
+20220514_015642.18: Main form log, Displaying image 20220514_015641.86
+20220514_015644.32: Star Cam Display Form: Identified 0 stars.
+20220514_015644.32: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015644.32: Star Cam Display Form: Max score: 0.00
+20220514_015644.40: Main form log, Displaying image 20220514_015644.08
+20220514_015646.12: Star Cam Display Form: Identified 0 stars.
+20220514_015646.12: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015646.12: Star Cam Display Form: Max score: 0.00
+20220514_015646.21: Main form log, Displaying image 20220514_015645.88
+20220514_015648.21: Star Cam Display Form: Identified 0 stars.
+20220514_015648.21: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015648.21: Star Cam Display Form: Max score: 0.00
+20220514_015648.30: Main form log, Displaying image 20220514_015647.97
+20220514_015650.14: Star Cam Display Form: Identified 0 stars.
+20220514_015650.14: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015650.14: Star Cam Display Form: Max score: 0.00
+20220514_015650.22: Main form log, Displaying image 20220514_015649.91
+20220514_015652.23: Star Cam Display Form: Identified 0 stars.
+20220514_015652.23: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015652.23: Star Cam Display Form: Max score: 0.00
+20220514_015652.31: Main form log, Displaying image 20220514_015651.99
+20220514_015654.17: Star Cam Display Form: Identified 0 stars.
+20220514_015654.17: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015654.17: Star Cam Display Form: Max score: 0.00
+20220514_015654.25: Main form log, Displaying image 20220514_015653.93
+20220514_015656.39: Star Cam Display Form: Identified 0 stars.
+20220514_015656.39: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015656.39: Star Cam Display Form: Max score: 0.00
+20220514_015656.47: Main form log, Displaying image 20220514_015656.16
+20220514_015658.34: Star Cam Display Form: Identified 0 stars.
+20220514_015658.34: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015658.34: Star Cam Display Form: Max score: 0.00
+20220514_015658.42: Main form log, Displaying image 20220514_015658.10
+20220514_015700.42: Star Cam Display Form: Identified 0 stars.
+20220514_015700.42: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015700.42: Star Cam Display Form: Max score: 0.00
+20220514_015700.50: Main form log, Displaying image 20220514_015700.18
+20220514_015702.22: Star Cam Display Form: Identified 0 stars.
+20220514_015702.22: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015702.22: Star Cam Display Form: Max score: 0.00
+20220514_015702.30: Main form log, Displaying image 20220514_015701.98
+20220514_015704.31: Star Cam Display Form: Identified 0 stars.
+20220514_015704.31: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015704.31: Star Cam Display Form: Max score: 0.00
+20220514_015704.39: Main form log, Displaying image 20220514_015704.07
+20220514_015706.38: Star Cam Display Form: Identified 0 stars.
+20220514_015706.39: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015706.39: Star Cam Display Form: Max score: 0.00
+20220514_015706.48: Main form log, Displaying image 20220514_015706.15
+20220514_015708.33: Star Cam Display Form: Identified 0 stars.
+20220514_015708.33: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_015708.33: Star Cam Display Form: Max score: 0.00
+20220514_015708.41: Main form log, Displaying image 20220514_015708.09
+20220514_015710.34: Star Cam Display Form: Automated feedback enabled.
+20220514_015710.35: Main form log, Displaying image 20220514_015710.03
+20220514_015710.35: Main form log, Feedback from brightest star: correction of 10293.635 arcsec.
+20220514_015712.57: Star Cam Display Form: Automated feedback enabled.
+20220514_015712.57: Main form log, Displaying image 20220514_015712.25
+20220514_015712.57: Main form log, Feedback from brightest star: correction of 1291.324 arcsec.
+20220514_015714.38: Star Cam Display Form: Automated feedback enabled.
+20220514_015714.38: Main form log, Displaying image 20220514_015714.06
+20220514_015714.38: Main form log, Feedback from brightest star: correction of 2736.366 arcsec.
+20220514_015716.45: Star Cam Display Form: Automated feedback enabled.
+20220514_015716.46: Main form log, Displaying image 20220514_015716.14
+20220514_015716.46: Main form log, Feedback from brightest star: correction of 1864.263 arcsec.
+20220514_015718.53: Star Cam Display Form: Automated feedback enabled.
+20220514_015718.54: Main form log, Displaying image 20220514_015718.22
+20220514_015718.54: Main form log, Feedback from brightest star: correction of 291.636 arcsec.
+20220514_015720.48: Star Cam Display Form: Automated feedback enabled.
+20220514_015720.48: Main form log, Displaying image 20220514_015720.17
+20220514_015720.48: Main form log, Feedback from brightest star: correction of 117.297 arcsec.
+20220514_015722.42: Star Cam Display Form: Automated feedback enabled.
+20220514_015722.43: Main form log, Displaying image 20220514_015722.11
+20220514_015722.43: Main form log, Feedback from brightest star: correction of 133.161 arcsec.
+20220514_015724.65: Star Cam Display Form: Automated feedback enabled.
+20220514_015724.66: Main form log, Displaying image 20220514_015724.33
+20220514_015724.66: Main form log, Feedback from brightest star: correction of 149.252 arcsec.
+20220514_015726.59: Star Cam Display Form: Automated feedback enabled.
+20220514_015726.59: Main form log, Displaying image 20220514_015726.27
+20220514_015726.59: Main form log, Feedback from brightest star: correction of 159.923 arcsec.
+20220514_015728.53: Star Cam Display Form: Automated feedback enabled.
+20220514_015728.53: Main form log, Displaying image 20220514_015728.22
+20220514_015728.53: Main form log, Feedback from brightest star: correction of 141.916 arcsec.
+20220514_015730.62: Star Cam Display Form: Automated feedback enabled.
+20220514_015730.62: Main form log, Displaying image 20220514_015730.30
+20220514_015730.62: Main form log, Feedback from brightest star: correction of 170.230 arcsec.
+20220514_015732.56: Star Cam Display Form: Automated feedback enabled.
+20220514_015732.56: Main form log, Displaying image 20220514_015732.24
+20220514_015732.56: Main form log, Feedback from brightest star: correction of 164.340 arcsec.
+20220514_015734.64: Star Cam Display Form: Automated feedback enabled.
+20220514_015734.64: Main form log, Displaying image 20220514_015734.32
+20220514_015734.64: Main form log, Feedback from brightest star: correction of 172.596 arcsec.
+20220514_015736.58: Star Cam Display Form: Automated feedback enabled.
+20220514_015736.58: Main form log, Displaying image 20220514_015736.27
+20220514_015736.59: Main form log, Feedback from brightest star: correction of 184.973 arcsec.
+20220514_015738.28: Main form log, Failed to take picture from star camera.
+20220514_015740.75: Star Cam Display Form: Automated feedback enabled.
+20220514_015740.75: Main form log, Displaying image 20220514_015740.43
+20220514_015740.75: Main form log, Feedback from brightest star: correction of 388.199 arcsec.
+20220514_015742.55: Star Cam Display Form: Automated feedback enabled.
+20220514_015742.56: Main form log, Displaying image 20220514_015742.24
+20220514_015742.56: Main form log, Feedback from brightest star: correction of 189.275 arcsec.
+20220514_015744.63: Star Cam Display Form: Automated feedback enabled.
+20220514_015744.64: Main form log, Displaying image 20220514_015744.32
+20220514_015744.64: Main form log, Feedback from brightest star: correction of 227.619 arcsec.
+20220514_015746.58: Star Cam Display Form: Automated feedback enabled.
+20220514_015746.58: Main form log, Displaying image 20220514_015746.26
+20220514_015746.59: Main form log, Feedback from brightest star: correction of 220.845 arcsec.
+20220514_015748.66: Star Cam Display Form: Automated feedback enabled.
+20220514_015748.66: Main form log, Displaying image 20220514_015748.34
+20220514_015748.66: Main form log, Feedback from brightest star: correction of 252.285 arcsec.
+20220514_015750.74: Star Cam Display Form: Automated feedback enabled.
+20220514_015750.74: Main form log, Displaying image 20220514_015750.43
+20220514_015750.74: Main form log, Feedback from brightest star: correction of 293.554 arcsec.
+20220514_015752.69: Star Cam Display Form: Automated feedback enabled.
+20220514_015752.69: Main form log, Displaying image 20220514_015752.37
+20220514_015752.69: Main form log, Feedback from brightest star: correction of 301.594 arcsec.
+20220514_015754.62: Star Cam Display Form: Automated feedback enabled.
+20220514_015754.63: Main form log, Displaying image 20220514_015754.31
+20220514_015754.63: Main form log, Feedback from brightest star: correction of 340.180 arcsec.
+20220514_015756.84: Star Cam Display Form: Automated feedback enabled.
+20220514_015756.85: Main form log, Displaying image 20220514_015756.53
+20220514_015756.85: Main form log, Feedback from brightest star: correction of 443.703 arcsec.
+20220514_015758.80: Star Cam Display Form: Automated feedback enabled.
+20220514_015758.80: Main form log, Displaying image 20220514_015758.48
+20220514_015758.80: Main form log, Feedback from brightest star: correction of 486.027 arcsec.
+20220514_015800.73: Star Cam Display Form: Automated feedback enabled.
+20220514_015800.73: Main form log, Displaying image 20220514_015800.42
+20220514_015800.74: Main form log, No star cam feedback: no stars detected.
+20220514_015802.82: Star Cam Display Form: Automated feedback enabled.
+20220514_015802.82: Main form log, Displaying image 20220514_015802.50
+20220514_015802.82: Main form log, No star cam feedback: no stars detected.
+20220514_015804.76: Star Cam Display Form: Automated feedback enabled.
+20220514_015804.76: Main form log, Displaying image 20220514_015804.45
+20220514_015804.76: Main form log, No star cam feedback: no stars detected.
+20220514_015806.70: Star Cam Display Form: Automated feedback enabled.
+20220514_015806.71: Main form log, Displaying image 20220514_015806.39
+20220514_015806.71: Main form log, No star cam feedback: no stars detected.
+20220514_015808.93: Star Cam Display Form: Automated feedback enabled.
+20220514_015808.93: Main form log, Displaying image 20220514_015808.61
+20220514_015808.93: Main form log, No star cam feedback: no stars detected.
+20220514_015810.73: Star Cam Display Form: Automated feedback enabled.
+20220514_015810.73: Main form log, Displaying image 20220514_015810.41
+20220514_015810.74: Main form log, No star cam feedback: object not bright enough.
+20220514_015812.81: Star Cam Display Form: Automated feedback enabled.
+20220514_015812.81: Main form log, Displaying image 20220514_015812.50
+20220514_015812.81: Main form log, No star cam feedback: no stars detected.
+20220514_015814.89: Star Cam Display Form: Automated feedback enabled.
+20220514_015814.90: Main form log, Displaying image 20220514_015814.58
+20220514_015814.90: Main form log, No star cam feedback: object not bright enough.
+20220514_015816.83: Star Cam Display Form: Automated feedback enabled.
+20220514_015816.84: Main form log, Displaying image 20220514_015816.52
+20220514_015816.84: Main form log, Feedback from brightest star: correction of 8985.257 arcsec.
+20220514_015818.92: Star Cam Display Form: Automated feedback enabled.
+20220514_015818.92: Main form log, Displaying image 20220514_015818.60
+20220514_015818.92: Main form log, No star cam feedback: no stars detected.
+20220514_015820.86: Star Cam Display Form: Automated feedback enabled.
+20220514_015820.87: Main form log, Displaying image 20220514_015820.55
+20220514_015820.87: Main form log, No star cam feedback: no stars detected.
+20220514_015822.80: Star Cam Display Form: Automated feedback enabled.
+20220514_015822.80: Main form log, Displaying image 20220514_015822.49
+20220514_015822.81: Main form log, No star cam feedback: no stars detected.
+20220514_015824.64: Main form log, Failed to take picture from star camera.
+20220514_015826.97: Star Cam Display Form: Automated feedback enabled.
+20220514_015826.97: Main form log, Displaying image 20220514_015826.65
+20220514_015826.97: Main form log, No star cam feedback: object not bright enough.
+20220514_015828.91: Star Cam Display Form: Automated feedback enabled.
+20220514_015828.92: Main form log, Displaying image 20220514_015828.60
+20220514_015828.92: Main form log, No star cam feedback: object not bright enough.
+20220514_015830.99: Star Cam Display Form: Automated feedback enabled.
+20220514_015830.99: Main form log, Displaying image 20220514_015830.68
+20220514_015831.00: Main form log, No star cam feedback: object not bright enough.
+20220514_015832.94: Star Cam Display Form: Automated feedback enabled.
+20220514_015832.94: Main form log, Displaying image 20220514_015832.62
+20220514_015832.94: Main form log, Feedback from brightest star: correction of 4693.468 arcsec.
+20220514_015834.88: Star Cam Display Form: Automated feedback enabled.
+20220514_015834.88: Main form log, Displaying image 20220514_015834.57
+20220514_015834.88: Main form log, No star cam feedback: object not bright enough.
+20220514_015837.10: Star Cam Display Form: Automated feedback enabled.
+20220514_015837.11: Main form log, Displaying image 20220514_015836.79
+20220514_015837.11: Main form log, Feedback from brightest star: correction of 176.938 arcsec.
+20220514_015838.91: Star Cam Display Form: Automated feedback enabled.
+20220514_015838.91: Main form log, Displaying image 20220514_015838.59
+20220514_015838.92: Main form log, Feedback from brightest star: correction of 272.450 arcsec.
+20220514_015840.32: Main form log, FSM closed loop tracking initiated.
+20220514_015840.99: Star Cam Display Form: Automated feedback enabled.
+20220514_015840.99: Main form log, Displaying image 20220514_015840.67
+20220514_015840.99: Main form log, Feedback from brightest star: correction of 257.076 arcsec.
+20220514_015842.95: Star Cam Display Form: Automated feedback enabled.
+20220514_015842.96: Main form log, Displaying image 20220514_015842.62
+20220514_015842.96: Main form log, Feedback from brightest star: correction of 234.857 arcsec.
+20220514_015845.01: Star Cam Display Form: Automated feedback enabled.
+20220514_015845.02: Main form log, Displaying image 20220514_015844.70
+20220514_015845.02: Main form log, Feedback from brightest star: correction of 228.205 arcsec.
+20220514_015846.71: Main form log, Failed to take picture from star camera.
+20220514_015849.03: Star Cam Display Form: Automated feedback enabled.
+20220514_015849.04: Main form log, Displaying image 20220514_015848.72
+20220514_015849.04: Main form log, Feedback from brightest star: correction of 422.602 arcsec.
+20220514_015851.12: Star Cam Display Form: Automated feedback enabled.
+20220514_015851.12: Main form log, Displaying image 20220514_015850.81
+20220514_015851.12: Main form log, Feedback from brightest star: correction of 221.202 arcsec.
+20220514_015853.07: Star Cam Display Form: Automated feedback enabled.
+20220514_015853.07: Main form log, Displaying image 20220514_015852.75
+20220514_015853.07: Main form log, Feedback from brightest star: correction of 191.917 arcsec.
+20220514_015854.76: Main form log, Failed to take picture from star camera.
+20220514_015857.09: Star Cam Display Form: Automated feedback enabled.
+20220514_015857.10: Main form log, Displaying image 20220514_015856.78
+20220514_015857.10: Main form log, Feedback from brightest star: correction of 364.794 arcsec.
+20220514_015859.18: Star Cam Display Form: Automated feedback enabled.
+20220514_015859.18: Main form log, Displaying image 20220514_015858.86
+20220514_015859.18: Main form log, Feedback from brightest star: correction of 185.650 arcsec.
+20220514_015901.25: Star Cam Display Form: Automated feedback enabled.
+20220514_015901.26: Main form log, Displaying image 20220514_015900.94
+20220514_015901.26: Main form log, Feedback from brightest star: correction of 175.129 arcsec.
+20220514_015902.81: Main form log, Failed to take picture from star camera.
+20220514_015905.14: Star Cam Display Form: Automated feedback enabled.
+20220514_015905.15: Main form log, Displaying image 20220514_015904.83
+20220514_015905.15: Main form log, Feedback from brightest star: correction of 341.368 arcsec.
+20220514_015907.23: Star Cam Display Form: Automated feedback enabled.
+20220514_015907.23: Main form log, Displaying image 20220514_015906.91
+20220514_015907.23: Main form log, Feedback from brightest star: correction of 180.422 arcsec.
+20220514_015909.18: Star Cam Display Form: Automated feedback enabled.
+20220514_015909.18: Main form log, Displaying image 20220514_015908.85
+20220514_015909.18: Main form log, Feedback from brightest star: correction of 156.629 arcsec.
+20220514_015911.26: Star Cam Display Form: Automated feedback enabled.
+20220514_015911.26: Main form log, Displaying image 20220514_015910.93
+20220514_015911.26: Main form log, Feedback from brightest star: correction of 140.722 arcsec.
+20220514_015913.19: Star Cam Display Form: Automated feedback enabled.
+20220514_015913.20: Main form log, Displaying image 20220514_015912.87
+20220514_015913.20: Main form log, Feedback from brightest star: correction of 130.777 arcsec.
+20220514_015915.13: Star Cam Display Form: Automated feedback enabled.
+20220514_015915.13: Main form log, Displaying image 20220514_015914.82
+20220514_015915.13: Main form log, Feedback from brightest star: correction of 126.983 arcsec.
+20220514_015917.22: Star Cam Display Form: Automated feedback enabled.
+20220514_015917.22: Main form log, Displaying image 20220514_015916.90
+20220514_015917.22: Main form log, Feedback from brightest star: correction of 144.427 arcsec.
+20220514_015919.30: Star Cam Display Form: Automated feedback enabled.
+20220514_015919.30: Main form log, Displaying image 20220514_015918.98
+20220514_015919.30: Main form log, Feedback from brightest star: correction of 131.581 arcsec.
+20220514_015921.24: Star Cam Display Form: Automated feedback enabled.
+20220514_015921.24: Main form log, Displaying image 20220514_015920.92
+20220514_015921.24: Main form log, Feedback from brightest star: correction of 116.357 arcsec.
+20220514_015923.32: Star Cam Display Form: Automated feedback enabled.
+20220514_015923.33: Main form log, Displaying image 20220514_015923.01
+20220514_015923.33: Main form log, Feedback from brightest star: correction of 106.695 arcsec.
+20220514_015925.40: Star Cam Display Form: Automated feedback enabled.
+20220514_015925.41: Main form log, Displaying image 20220514_015925.09
+20220514_015925.41: Main form log, Feedback from brightest star: correction of 110.887 arcsec.
+20220514_015927.35: Star Cam Display Form: Automated feedback enabled.
+20220514_015927.35: Main form log, Displaying image 20220514_015927.03
+20220514_015927.35: Main form log, Feedback from brightest star: correction of 91.416 arcsec.
+20220514_015929.29: Star Cam Display Form: Automated feedback enabled.
+20220514_015929.29: Main form log, Displaying image 20220514_015928.98
+20220514_015929.29: Main form log, Feedback from brightest star: correction of 83.478 arcsec.
+20220514_015931.37: Star Cam Display Form: Automated feedback enabled.
+20220514_015931.38: Main form log, Displaying image 20220514_015931.06
+20220514_015931.38: Main form log, Feedback from brightest star: correction of 102.458 arcsec.
+20220514_015933.45: Star Cam Display Form: Automated feedback enabled.
+20220514_015933.46: Main form log, Displaying image 20220514_015933.14
+20220514_015933.46: Main form log, Feedback from brightest star: correction of 83.609 arcsec.
+20220514_015935.26: Star Cam Display Form: Automated feedback enabled.
+20220514_015935.26: Main form log, Displaying image 20220514_015934.94
+20220514_015935.26: Main form log, Feedback from brightest star: correction of 73.495 arcsec.
+20220514_015937.34: Star Cam Display Form: Automated feedback enabled.
+20220514_015937.34: Main form log, Displaying image 20220514_015937.03
+20220514_015937.34: Main form log, Feedback from brightest star: correction of 92.158 arcsec.
+20220514_015939.29: Star Cam Display Form: Automated feedback enabled.
+20220514_015939.29: Main form log, Displaying image 20220514_015938.97
+20220514_015939.29: Main form log, Feedback from brightest star: correction of 64.700 arcsec.
+20220514_015941.37: Star Cam Display Form: Automated feedback enabled.
+20220514_015941.37: Main form log, Displaying image 20220514_015941.05
+20220514_015941.37: Main form log, Feedback from brightest star: correction of 73.877 arcsec.
+20220514_015943.31: Star Cam Display Form: Automated feedback enabled.
+20220514_015943.31: Main form log, Displaying image 20220514_015942.99
+20220514_015943.31: Main form log, Feedback from brightest star: correction of 80.685 arcsec.
+20220514_015945.39: Star Cam Display Form: Automated feedback enabled.
+20220514_015945.39: Main form log, Displaying image 20220514_015945.08
+20220514_015945.39: Main form log, Feedback from brightest star: correction of 60.722 arcsec.
+20220514_015947.47: Star Cam Display Form: Automated feedback enabled.
+20220514_015947.49: Main form log, Displaying image 20220514_015947.16
+20220514_015947.49: Main form log, Feedback from brightest star: correction of 70.200 arcsec.
+20220514_015949.28: Star Cam Display Form: Automated feedback enabled.
+20220514_015949.29: Main form log, Displaying image 20220514_015948.96
+20220514_015949.29: Main form log, Feedback from brightest star: correction of 136.447 arcsec.
+20220514_015951.36: Star Cam Display Form: Automated feedback enabled.
+20220514_015951.39: Main form log, Displaying image 20220514_015951.05
+20220514_015951.39: Main form log, Feedback from brightest star: correction of 57.375 arcsec.
+20220514_015953.58: Star Cam Display Form: Automated feedback enabled.
+20220514_015953.59: Main form log, Displaying image 20220514_015953.27
+20220514_015953.59: Main form log, Feedback from brightest star: correction of 65.529 arcsec.
+20220514_015955.52: Star Cam Display Form: Automated feedback enabled.
+20220514_015955.53: Main form log, Displaying image 20220514_015955.21
+20220514_015955.53: Main form log, Feedback from brightest star: correction of 60.302 arcsec.
+20220514_015957.47: Star Cam Display Form: Automated feedback enabled.
+20220514_015957.48: Main form log, Displaying image 20220514_015957.15
+20220514_015957.48: Main form log, Feedback from brightest star: correction of 59.530 arcsec.
+20220514_015959.55: Star Cam Display Form: Automated feedback enabled.
+20220514_015959.56: Main form log, Displaying image 20220514_015959.23
+20220514_015959.56: Main form log, No star cam feedback: inconsistent location.
+20220514_020001.63: Star Cam Display Form: Automated feedback enabled.
+20220514_020001.63: Main form log, Displaying image 20220514_020001.32
+20220514_020001.64: Main form log, No star cam feedback: inconsistent location.
+20220514_020003.44: Star Cam Display Form: Automated feedback enabled.
+20220514_020003.44: Main form log, Displaying image 20220514_020003.12
+20220514_020003.44: Main form log, No star cam feedback: inconsistent location.
+20220514_020005.52: Star Cam Display Form: Automated feedback enabled.
+20220514_020005.52: Main form log, Displaying image 20220514_020005.20
+20220514_020005.52: Main form log, No star cam feedback: inconsistent location.
+20220514_020007.47: Star Cam Display Form: Automated feedback enabled.
+20220514_020007.47: Main form log, Displaying image 20220514_020007.15
+20220514_020007.47: Main form log, No star cam feedback: inconsistent location.
+20220514_020009.55: Star Cam Display Form: Automated feedback enabled.
+20220514_020009.55: Main form log, Displaying image 20220514_020009.23
+20220514_020009.55: Main form log, No star cam feedback: inconsistent location.
+20220514_020011.51: Star Cam Display Form: Automated feedback enabled.
+20220514_020011.51: Main form log, Displaying image 20220514_020011.17
+20220514_020011.51: Main form log, No star cam feedback: object not bright enough.
+20220514_020013.57: Star Cam Display Form: Automated feedback enabled.
+20220514_020013.57: Main form log, Displaying image 20220514_020013.25
+20220514_020013.57: Main form log, No star cam feedback: object not bright enough.
+20220514_020015.45: Star Cam Display Form: Identified 0 stars.
+20220514_020015.45: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_020015.45: Star Cam Display Form: Max score: 0.00
+20220514_020015.53: Main form log, Displaying image 20220514_020015.20
+20220514_022325.48: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20220514_022328.82: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20220514_022901.01: Star Cam Display Form: Identified 0 stars.
+20220514_022901.01: Star Cam Display Form: RMSE: 0.00 arcseconds
+20220514_022901.01: Star Cam Display Form: Max score: 0.00
+20220514_022901.09: Main form log, Displaying image 20220514_022900.78
+20220514_022901.14: Main form log, Capture time: 0.6090348 s.

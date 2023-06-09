@@ -1,0 +1,53 @@
+20221119_230241.27: Main form log, SKY2000V5 star catalog loaded.
+20221119_230241.40: Main form log, Star ID initialized.
+20221119_230247.18: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\GS_Tracking_KR\bin\Release\20221117_212115.47.acal
+20221119_230254.43: Main form log, Mount connected on port 'COM4'
+20221119_230301.39: Main form log, iNova camera initialized: True
+20221119_230301.76: Main form log, Initialization success: IR camera.
+20221119_230308.55: Star Cam Display Form: Identified 0 stars.
+20221119_230308.55: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221119_230308.55: Star Cam Display Form: Max score: 0.00
+20221119_230308.62: Main form log, Displaying image 20221119_230308.23
+20221119_230308.62: Main form log, Capture time: 0.768 s.
+20221119_230335.78: Main form log, LOS set to pixels (770, 495).
+20221119_230335.78: Main form log, LOS_ST = (0.0138817232761147, 0.00157939371674037, 0.999902396874001).
+20221119_230335.78: Star Cam Display Form: LOS set to X: 770, Y: 495
+20221119_230342.46: Main form log, Start grab with tracking camera.
+20221119_230354.06: Main form log, Satellite appears in 0.57 minutes
+20221119_230354.06: Main form log, The pass starts at 2022-11-19 18:04:28.01 local time.
+20221119_230354.06: Main form log, Mount Azi: 55.126 deg, Mount Alt: 5.024 deg
+20221119_230354.06: Main form log, ENU Azi: -118.069 deg, ENU Ele: 4.306 deg
+20221119_230357.47: Main form log, TLE track initiated.
+20221119_230357.47: Main form log, Mount commanded to Azi 55.13 deg, Alt 5.02 deg.
+20221119_230406.70: Main form log, Initialization success: FSM.
+20221119_230709.68: Star Cam Display Form: Identified 0 stars.
+20221119_230709.68: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221119_230709.68: Star Cam Display Form: Max score: 0.00
+20221119_230709.74: Main form log, Displaying image 20221119_230709.47
+20221119_230709.74: Main form log, Capture time: 0.625 s.
+20221119_230714.19: Star Cam Display Form: Identified 0 stars.
+20221119_230714.19: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221119_230714.19: Star Cam Display Form: Max score: 0.00
+20221119_230714.26: Main form log, Displaying image 20221119_230713.97
+20221119_230714.26: Main form log, Capture time: 0.669 s.
+20221119_230716.00: Star Cam Display Form: Identified 0 stars.
+20221119_230716.00: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221119_230716.00: Star Cam Display Form: Max score: 0.00
+20221119_230716.09: Main form log, Displaying image 20221119_230715.77
+20221119_230716.09: Main form log, Capture time: 0.688 s.
+20221119_230717.27: Main form log, Failed to take picture from star camera.
+20221119_230717.78: Star Cam Display Form: Identified 0 stars.
+20221119_230717.78: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221119_230717.79: Star Cam Display Form: Max score: 0.00
+20221119_230717.85: Main form log, Displaying image 20221119_230717.57
+20221119_230717.85: Main form log, Capture time: 0.817 s.
+20221119_230732.24: Main form log, FSM closed loop tracking initiated.
+20221119_230929.11: Main form log, Stop command sent.
+20221119_230929.11: Main form log, dq cleared.
+20221119_230953.39: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221119_230954.48: Main form log, Stop command sent.
+20221119_230954.48: Main form log, dq cleared.
+20221119_231016.93: Main form log, Mount commanded to Azi 150 deg, Alt 50 deg.
+20221119_231037.78: Main form log, Mount commanded to Azi 50 deg, Alt 50 deg.
+20221119_231053.62: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221119_231147.52: Main form log, FSM connection closed.

@@ -1,0 +1,11 @@
+20221011_232747.59: Main form log, SKY2000V5 star catalog loaded.
+20221011_232747.72: Main form log, Star ID initialized.
+20221011_232754.05: Main form log, Mount connected on port 'COM7'
+20221011_232758.17: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\GS_Tracking_KR\bin\Release\20220915_203021.53.acal
+20221011_232800.04: Main form log, Initialization success: IR camera.
+20221011_232801.43: Main form log, Start grab with tracking camera.
+20221011_232806.72: Main form log, iNova camera initialized: True
+20221011_232810.10: Main form log, Tracking star 17140107.
+20221011_232810.10: Main form log, RA: 4.51452542458686, DEC: 0.251148031225173
+20221011_232810.10: Main form log, ENU Azi: -115.02164708515, ENU Alt: 44.1386948877358
+20221011_232831.92: Main form log, FSM closed loop tracking initiated.

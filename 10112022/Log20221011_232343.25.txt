@@ -1,0 +1,34 @@
+20221011_232343.61: Main form log, SKY2000V5 star catalog loaded.
+20221011_232343.74: Main form log, Star ID initialized.
+20221011_232347.13: Main form log, Mount connected on port 'COM7'
+20221011_232351.08: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\GS_Tracking_KR\bin\Release\20220915_203021.53.acal
+20221011_232353.87: Main form log, Initialization success: FSM.
+20221011_232359.00: Main form log, Tracking star 17140107.
+20221011_232359.01: Main form log, RA: 4.51452542458686, DEC: 0.251148031225173
+20221011_232359.01: Main form log, ENU Azi: -116.058899944702, ENU Alt: 44.8353551693613
+20221011_232405.87: Main form log, iNova camera initialized: True
+20221011_232417.69: Main form log, Initialization success: IR camera.
+20221011_232419.23: Main form log, Start grab with tracking camera.
+20221011_232421.71: Main form log, Failed to take picture from star camera.
+20221011_232422.25: Star Cam Display Form: Identified 0 stars.
+20221011_232422.25: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221011_232422.25: Star Cam Display Form: Max score: 0.00
+20221011_232422.32: Main form log, Displaying image 20221011_232422.01
+20221011_232422.33: Main form log, Capture time: 0.866 s.
+20221011_232428.56: Main form log, LOS set to pixels (643, 492).
+20221011_232428.56: Main form log, LOS_ST = (0.000304139676190999, 0.00125851630185771, 0.999999161817536).
+20221011_232428.56: Star Cam Display Form: LOS set to X: 643, Y: 492
+20221011_232430.81: Main form log, LOS set to pixels (639, 492).
+20221011_232430.81: Main form log, LOS_ST = (-0.000123501748495742, 0.00125850736232594, 0.999999200452949).
+20221011_232430.81: Star Cam Display Form: LOS set to X: 639, Y: 492
+20221011_232432.82: Main form log, LOS set to pixels (638, 492).
+20221011_232432.82: Main form log, LOS_ST = (-0.000230411711057621, 0.00125850505708787, 0.999999181537397).
+20221011_232432.82: Star Cam Display Form: LOS set to X: 638, Y: 492
+20221011_232434.43: Main form log, LOS set to pixels (637, 492).
+20221011_232434.43: Main form log, LOS_ST = (-0.00033732150887757, 0.00125850272365273, 0.999999151192187).
+20221011_232434.43: Star Cam Display Form: LOS set to X: 637, Y: 492
+20221011_232439.50: Main form log, FSM closed loop tracking initiated.
+20221011_232511.13: Main form log, FSM closed loop tracking stopped.
+20221011_232516.87: Main form log, Stop command sent.
+20221011_232516.87: Main form log, dq cleared.
+20221011_232521.12: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.

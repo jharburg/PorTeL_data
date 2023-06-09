@@ -1,0 +1,106 @@
+20221020_235057.89: Main form log, SKY2000V5 star catalog loaded.
+20221020_235058.03: Main form log, Star ID initialized.
+20221020_235059.52: Main form log, Initialization success: IR camera.
+20221020_235101.48: Main form log, Start grab with tracking camera.
+20221020_235110.16: Main form log, Mount connected on port 'COM4'
+20221020_235115.65: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\GS_Tracking_KR\bin\Release\20220915_203021.53.acal
+20221020_235119.57: Main form log, Tracking star 17140107.
+20221020_235119.57: Main form log, RA: 4.51452542458686, DEC: 0.251148031225173
+20221020_235119.57: Main form log, ENU Azi: -102.253686397532, ENU Alt: 33.9108760329902
+20221020_235132.08: Main form log, iNova camera initialized: True
+20221020_235150.29: Main form log, Star camera image 20221020_235147.08 added for calibration.
+20221020_235150.40: Star Cam Display Form: Identified 8 stars.
+20221020_235150.40: Star Cam Display Form: RMSE: 3.73 arcseconds
+20221020_235150.40: Star Cam Display Form: Max score: 49.65
+20221020_235150.56: Main form log, Displaying image 20221020_235147.08
+20221020_235150.61: Main form log, Capture time: 3.867 s.
+20221020_235158.38: Main form log, LOS set to pixels (642, 495).
+20221020_235158.38: Main form log, LOS_ST = (0.000197248358973473, 0.00157934198840913, 0.999998733385182).
+20221020_235158.38: Star Cam Display Form: LOS set to X: 642, Y: 495
+20221020_235200.40: Main form log, LOS set to pixels (641, 494).
+20221020_235200.40: Main form log, LOS_ST = (9.03315960760046E-05, 0.00147239713603063, 0.999998911942846).
+20221020_235200.41: Star Cam Display Form: LOS set to X: 641, Y: 494
+20221020_235202.63: Main form log, LOS set to pixels (639, 492).
+20221020_235202.63: Main form log, LOS_ST = (-0.000123501748495742, 0.00125850736232594, 0.999999200452949).
+20221020_235202.63: Star Cam Display Form: LOS set to X: 639, Y: 492
+20221020_235204.60: Main form log, LOS set to pixels (639, 489).
+20221020_235204.60: Main form log, LOS_ST = (-0.000123521277633555, 0.000937679125277094, 0.999999552750076).
+20221020_235204.60: Star Cam Display Form: LOS set to X: 639, Y: 489
+20221020_235210.47: Main form log, LOS set to pixels (639, 494).
+20221020_235210.47: Main form log, LOS_ST = (-0.000123488558482114, 0.00147239239315621, 0.999998908405013).
+20221020_235210.47: Star Cam Display Form: LOS set to X: 639, Y: 494
+20221020_235213.30: Main form log, LOS set to pixels (639, 490).
+20221020_235213.30: Main form log, LOS_ST = (-0.000123514802010124, 0.00104462195824051, 0.999999446754376).
+20221020_235213.30: Star Cam Display Form: LOS set to X: 639, Y: 490
+20221020_235215.76: Main form log, LOS set to pixels (642, 490).
+20221020_235215.76: Main form log, LOS_ST = (0.0001972163986025, 0.00104462838232392, 0.999999434928458).
+20221020_235215.76: Star Cam Display Form: LOS set to X: 642, Y: 490
+20221020_235217.78: Main form log, LOS set to pixels (644, 490).
+20221020_235217.78: Main form log, LOS_ST = (0.000411037956046324, 0.00104463253683311, 0.999999369895132).
+20221020_235217.78: Star Cam Display Form: LOS set to X: 644, Y: 490
+20221020_235219.23: Main form log, LOS set to pixels (643, 491).
+20221020_235219.23: Main form log, LOS_ST = (0.000304133375469816, 0.00115157343214725, 0.999999290690509).
+20221020_235219.23: Star Cam Display Form: LOS set to X: 643, Y: 491
+20221020_235223.52: Main form log, Initialization success: FSM.
+20221020_235246.45: Main form log, 0.142886030553703
+20221020_235246.45: Main form log, 0.00204685593636389
+20221020_235246.45: Main form log, -0.0112232946461942
+20221020_235246.45: Main form log, 0.104557916355852
+20221020_235418.35: Main form log, Stop command sent.
+20221020_235418.35: Main form log, dq cleared.
+20221020_235527.40: Main form log, Satellite appears in 4.70 minutes
+20221020_235527.40: Main form log, The pass starts at 2022-10-20 20:00:09.37 local time.
+20221020_235527.40: Main form log, Mount Azi: 149.225 deg, Mount Alt: 5.022 deg
+20221020_235527.41: Main form log, ENU Azi: -22.391 deg, ENU Ele: 5.373 deg
+20221020_235531.00: Main form log, TLE track initiated.
+20221020_235531.00: Main form log, Mount commanded to Azi 149.22 deg, Alt 5.02 deg.
+20221021_000450.54: Main form log, Failed to take picture from star camera.
+20221021_000451.05: Star Cam Display Form: Identified 0 stars.
+20221021_000451.05: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221021_000451.05: Star Cam Display Form: Max score: 0.00
+20221021_000451.13: Main form log, Displaying image 20221021_000450.84
+20221021_000451.13: Main form log, Capture time: 0.769 s.
+20221021_000452.04: Main form log, Failed to take picture from star camera.
+20221021_000452.56: Star Cam Display Form: Identified 0 stars.
+20221021_000452.56: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221021_000452.56: Star Cam Display Form: Max score: 0.00
+20221021_000452.62: Main form log, Displaying image 20221021_000452.34
+20221021_000452.62: Main form log, Capture time: 0.883 s.
+20221021_000527.45: Main form log, FSM closed loop tracking initiated.
+20221021_000544.28: Main form log, Offload FSM started.
+20221021_000728.16: Main form log, Stop command sent.
+20221021_000728.16: Main form log, dq cleared.
+20221021_000731.65: Main form log, FSM closed loop tracking stopped.
+20221021_000734.53: Main form log, Offload FSM stopped.
+20221021_000736.13: Main form log, FSM offload angle cleared.
+20221021_000736.65: Main form log, dq cleared.
+20221021_000738.97: Main form log, Tracking stopped.
+20221021_000738.97: Main form log, dq cleared.
+20221021_000804.16: Main form log, Mount commanded to Azi 290 deg, Alt 5.02 deg.
+20221021_000814.54: Main form log, Stop command sent.
+20221021_000814.54: Main form log, dq cleared.
+20221021_000832.24: Main form log, Mount commanded to Azi 350 deg, Alt 65 deg.
+20221021_000834.81: Main form log, Stop command sent.
+20221021_000834.81: Main form log, dq cleared.
+20221021_000834.90: Main form log, Stop command sent.
+20221021_000834.90: Main form log, dq cleared.
+20221021_000834.96: Main form log, Stop command sent.
+20221021_000834.96: Main form log, dq cleared.
+20221021_000843.62: Main form log, Mount commanded to Azi 300 deg, Alt 65 deg.
+20221021_000901.03: Main form log, Stop command sent.
+20221021_000901.03: Main form log, dq cleared.
+20221021_000901.26: Main form log, Stop command sent.
+20221021_000901.26: Main form log, dq cleared.
+20221021_000901.80: Main form log, Stop command sent.
+20221021_000901.80: Main form log, dq cleared.
+20221021_000902.71: Main form log, Stop command sent.
+20221021_000902.71: Main form log, dq cleared.
+20221021_000926.66: Main form log, Mount commanded to Azi 300 deg, Alt 40 deg.
+20221021_000938.61: Main form log, Mount commanded to Azi 300 deg, Alt 0 deg.
+20221021_001018.16: Main form log, Mount commanded to Azi 320 deg, Alt 0 deg.
+20221021_001020.84: Main form log, Stop command sent.
+20221021_001020.84: Main form log, dq cleared.
+20221021_001031.23: Main form log, Mount commanded to Azi 310 deg, Alt 0 deg.
+20221021_001038.02: Main form log, Mount commanded to Azi 320 deg, Alt 0 deg.
+20221021_001040.61: Main form log, Stop command sent.
+20221021_001040.61: Main form log, dq cleared.

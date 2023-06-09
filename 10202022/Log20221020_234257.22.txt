@@ -1,0 +1,5 @@
+20221020_234257.57: Main form log, SKY2000V5 star catalog loaded.
+20221020_234257.70: Main form log, Star ID initialized.
+20221020_234302.46: Main form log, Mount connected on port 'COM4'
+20221020_234304.75: Main form log, Initialization success: IR camera.
+20221020_234308.67: Main form log, Start grab with tracking camera.

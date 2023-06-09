@@ -1,0 +1,5 @@
+20221011_232856.01: Main form log, SKY2000V5 star catalog loaded.
+20221011_232856.14: Main form log, Star ID initialized.
+20221011_232859.06: Main form log, Mount connected on port 'COM3'
+20221011_232911.66: Main form log, Stop command sent.
+20221011_232911.66: Main form log, dq cleared.

@@ -1,0 +1,32 @@
+20221110_024751.06: Main form log, SKY2000V5 star catalog loaded.
+20221110_024751.19: Main form log, Star ID initialized.
+20221110_024756.14: Main form log, Mount connected on port 'COM4'
+20221110_024800.23: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\GS_Tracking_KR\bin\Release\20221109_194036.58.acal
+20221110_024814.33: Main form log, Tracking star 20410095.
+20221110_024814.33: Main form log, RA: 5.41676857447768, DEC: 0.790289933439843
+20221110_024814.33: Main form log, ENU Azi: -61.5998986376562, ENU Alt: 41.6608558625433
+20221110_024821.59: Main form log, iNova camera initialized: True
+20221110_024824.47: Star Cam Display Form: Identified 0 stars.
+20221110_024824.47: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221110_024824.47: Star Cam Display Form: Max score: 0.00
+20221110_024824.55: Main form log, Displaying image 20221110_024824.22
+20221110_024824.55: Main form log, Capture time: 0.757 s.
+20221110_024844.06: Main form log, LOS set to pixels (781, 478).
+20221110_024844.06: Main form log, LOS_ST = (0.0150576268181526, -0.000238580664409921, 0.999886599047048).
+20221110_024844.06: Star Cam Display Form: LOS set to X: 781, Y: 478
+20221110_024911.37: Main form log, Initialization success: FSM.
+20221110_024917.58: Main form log, Initialization success: IR camera.
+20221110_024919.59: Main form log, Start grab with tracking camera.
+20221110_024939.11: Main form log, Satellite appears in 0.00 minutes
+20221110_024939.11: Main form log, The pass starts at 2022-11-09 21:49:39.09 local time.
+20221110_024939.11: Main form log, Mount Azi: 52.064 deg, Mount Alt: 7.238 deg
+20221110_024939.11: Main form log, ENU Azi: -117.814 deg, ENU Ele: 7.411 deg
+20221110_024942.09: Main form log, TLE track initiated.
+20221110_024942.09: Main form log, Mount commanded to Azi 52.06 deg, Alt 7.24 deg.
+20221110_025220.68: Main form log, FSM closed loop tracking initiated.
+20221110_025414.65: Main form log, FSM closed loop tracking stopped.
+20221110_025440.90: Main form log, Stop command sent.
+20221110_025440.90: Main form log, dq cleared.
+20221110_025557.09: Main form log, Mount commanded to Azi 200 deg, Alt 7.24 deg.
+20221110_025607.12: Main form log, Mount commanded to Azi 100 deg, Alt 7.24 deg.
+20221110_025642.77: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.

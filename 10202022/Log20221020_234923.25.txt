@@ -1,0 +1,4 @@
+20221020_234923.59: Main form log, SKY2000V5 star catalog loaded.
+20221020_234923.73: Main form log, Star ID initialized.
+20221020_234926.22: Main form log, Initialization success: IR camera.
+20221020_234935.24: Main form log, Start grab with tracking camera.

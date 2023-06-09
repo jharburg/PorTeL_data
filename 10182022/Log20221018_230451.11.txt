@@ -1,0 +1,257 @@
+20221018_230451.47: Main form log, SKY2000V5 star catalog loaded.
+20221018_230451.61: Main form log, Star ID initialized.
+20221018_230456.41: Main form log, Mount connected on port 'COM4'
+20221018_230501.51: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\GS_Tracking_KR\bin\Release\20220915_203021.53.acal
+20221018_230512.04: Main form log, iNova camera initialized: True
+20221018_230519.66: Main form log, Tracking star 17140107.
+20221018_230519.66: Main form log, RA: 4.51452542458686, DEC: 0.251148031225173
+20221018_230519.66: Main form log, ENU Azi: -113.884944963408, ENU Alt: 43.3525025753377
+20221018_230551.50: Main form log, Initialization success: FSM.
+20221018_230638.93: Star Cam Display Form: Identified 0 stars.
+20221018_230638.93: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221018_230638.93: Star Cam Display Form: Max score: 0.00
+20221018_230639.03: Main form log, Displaying image 20221018_230638.69
+20221018_230639.03: Main form log, Capture time: 0.92 s.
+20221018_230645.78: Main form log, Feedback from brightest star: correction of 378.990 arcsec.
+20221018_230649.84: Main form log, dq cleared.
+20221018_230653.50: Main form log, dq cleared.
+20221018_230655.51: Main form log, FSM offload angle cleared.
+20221018_230658.19: Main form log, Failed to take picture from star camera.
+20221018_230658.75: Star Cam Display Form: Identified 0 stars.
+20221018_230658.75: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221018_230658.75: Star Cam Display Form: Max score: 0.00
+20221018_230658.83: Main form log, Displaying image 20221018_230658.49
+20221018_230658.83: Main form log, Capture time: 0.88 s.
+20221018_230859.48: Main form log, Tracking star 19500184.
+20221018_230859.49: Main form log, RA: 5.1957723884129, DEC: 0.154776767694219
+20221018_230859.49: Main form log, ENU Azi: -170.768244180552, ENU Alt: 56.0070399104964
+20221018_231210.76: Star Cam Display Form: Identified 0 stars.
+20221018_231210.76: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221018_231210.76: Star Cam Display Form: Max score: 0.00
+20221018_231210.84: Main form log, Displaying image 20221018_231210.51
+20221018_231210.84: Main form log, Capture time: 0.743 s.
+20221018_231226.95: Main form log, Initialization success: IR camera.
+20221018_231229.32: Main form log, Start grab with tracking camera.
+20221018_231254.75: Main form log, 0.0807282879677201
+20221018_231254.75: Main form log, 0.00239532460944502
+20221018_231254.75: Main form log, -0.00386992765920268
+20221018_231254.75: Main form log, 0.0973769622420836
+20221018_231301.71: Main form log, 0.0804314508232205
+20221018_231301.71: Main form log, 0.00136167731016186
+20221018_231301.71: Main form log, -0.00401933863071975
+20221018_231301.71: Main form log, 0.0971564418484592
+20221018_231322.39: Main form log, 0.0820971384805193
+20221018_231322.40: Main form log, 0.00120495258545305
+20221018_231322.41: Main form log, -0.00453855483091225
+20221018_231322.41: Main form log, 0.098822760659248
+20221018_231335.71: Main form log, 0.0827902988993096
+20221018_231335.71: Main form log, 0.00249635548798841
+20221018_231335.71: Main form log, -0.0032572123088741
+20221018_231335.71: Main form log, 0.0962501170267859
+20221018_231341.30: Main form log, FSM closed loop tracking initiated.
+20221018_231505.85: Main form log, FSM closed loop tracking stopped.
+20221018_231510.37: Main form log, Tracking star 17140177.
+20221018_231510.37: Main form log, RA: 4.51450197899725, DEC: 0.251157727498795
+20221018_231510.37: Main form log, ENU Azi: -111.568748508826, ENU Alt: 41.6766367375782
+20221018_231548.45: Main form log, FSM closed loop tracking initiated.
+20221018_231701.65: Main form log, Offload FSM started.
+20221018_231830.47: Main form log, Offload FSM stopped.
+20221018_231905.77: Main form log, FSM closed loop tracking stopped.
+20221018_231913.46: Main form log, dq cleared.
+20221018_231914.49: Main form log, FSM offload angle cleared.
+20221018_232220.90: Star Cam Display Form: Identified 0 stars.
+20221018_232220.90: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221018_232220.91: Star Cam Display Form: Max score: 0.00
+20221018_232220.97: Main form log, Displaying image 20221018_232220.69
+20221018_232220.97: Main form log, Capture time: 0.706 s.
+20221018_232223.28: Main form log, Feedback from brightest star: correction of 217.497 arcsec.
+20221018_232230.77: Main form log, dq cleared.
+20221018_232232.84: Main form log, FSM offload angle cleared.
+20221018_232234.01: Main form log, dq cleared.
+20221018_232236.21: Star Cam Display Form: Identified 0 stars.
+20221018_232236.21: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221018_232236.21: Star Cam Display Form: Max score: 0.00
+20221018_232236.28: Main form log, Displaying image 20221018_232235.99
+20221018_232236.28: Main form log, Capture time: 0.62 s.
+20221018_232433.13: Main form log, Stop command sent.
+20221018_232433.13: Main form log, dq cleared.
+20221018_232453.79: Main form log, Tracking star 22490142.
+20221018_232453.79: Main form log, RA: 5.97776670889224, DEC: 0.429375236674661
+20221018_232453.79: Main form log, ENU Azi: 109.97433667141, ENU Alt: 55.7568495453729
+20221018_232544.62: Main form log, FSM closed loop tracking initiated.
+20221018_232712.22: Main form log, Offload FSM started.
+20221018_233024.49: Main form log, Offload FSM stopped.
+20221018_233025.69: Main form log, FSM closed loop tracking stopped.
+20221018_233026.97: Main form log, Stop command sent.
+20221018_233026.97: Main form log, dq cleared.
+20221018_233106.28: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221018_233229.40: Main form log, Unable to load selected TLE.
+20221018_233318.93: Main form log, Satellite appears in 0.00 minutes
+20221018_233318.93: Main form log, The pass starts at 2022-10-18 19:33:18.91 local time.
+20221018_233318.94: Main form log, Mount Azi: -24.082 deg, Mount Alt: 9.042 deg
+20221018_233318.94: Main form log, ENU Azi: 164.319 deg, ENU Ele: 9.227 deg
+20221018_233324.80: Main form log, TLE track initiated.
+20221018_233324.80: Main form log, Mount commanded to Azi -24.08 deg, Alt 9.04 deg.
+20221018_233551.04: Main form log, FSM closed loop tracking initiated.
+20221018_233716.30: Main form log, Stop command sent.
+20221018_233716.30: Main form log, dq cleared.
+20221018_233733.09: Main form log, FSM closed loop tracking stopped.
+20221018_235136.65: Main form log, Tracking stopped.
+20221018_235136.65: Main form log, dq cleared.
+20221018_235154.11: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221018_235220.19: Main form log, Satellite appears in 3.43 minutes
+20221018_235220.19: Main form log, The pass starts at 2022-10-18 19:55:46.17 local time.
+20221018_235220.19: Main form log, Mount Azi: 2.822 deg, Mount Alt: 5.042 deg
+20221018_235220.19: Main form log, ENU Azi: -168.782 deg, ENU Ele: 5.175 deg
+20221018_235245.07: Main form log, Satellite appears in 3.02 minutes
+20221018_235245.07: Main form log, The pass starts at 2022-10-18 19:55:46.06 local time.
+20221018_235245.07: Main form log, Mount Azi: 2.823 deg, Mount Alt: 5.034 deg
+20221018_235245.07: Main form log, ENU Azi: -168.781 deg, ENU Ele: 5.167 deg
+20221018_235247.56: Main form log, TLE track initiated.
+20221018_235247.56: Main form log, Mount commanded to Azi 2.82 deg, Alt 5.03 deg.
+20221018_235953.65: Main form log, Failed to take picture from star camera.
+20221018_235954.19: Star Cam Display Form: Identified 0 stars.
+20221018_235954.19: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221018_235954.19: Star Cam Display Form: Max score: 0.00
+20221018_235954.29: Main form log, Displaying image 20221018_235953.95
+20221018_235954.29: Main form log, Capture time: 0.859 s.
+20221018_235957.77: Star Cam Display Form: Identified 0 stars.
+20221018_235957.77: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221018_235957.77: Star Cam Display Form: Max score: 0.00
+20221018_235957.84: Main form log, Displaying image 20221018_235957.55
+20221018_235957.84: Main form log, Capture time: 0.662 s.
+20221018_235958.75: Main form log, Failed to take picture from star camera.
+20221018_235959.28: Star Cam Display Form: Identified 0 stars.
+20221018_235959.28: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221018_235959.28: Star Cam Display Form: Max score: 0.00
+20221018_235959.36: Main form log, Displaying image 20221018_235959.05
+20221018_235959.36: Main form log, Capture time: 0.868 s.
+20221019_000003.19: Main form log, FSM closed loop tracking initiated.
+20221019_000347.65: Main form log, FSM closed loop tracking stopped.
+20221019_000357.06: Main form log, Stop command sent.
+20221019_000357.06: Main form log, dq cleared.
+20221019_000403.88: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221019_000628.22: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221019_000632.35: Main form log, Tracking stopped.
+20221019_000632.35: Main form log, dq cleared.
+20221019_000637.07: Main form log, Satellite appears in 0.00 minutes
+20221019_000637.07: Main form log, The pass starts at 2022-10-18 20:06:37.07 local time.
+20221019_000637.07: Main form log, Mount Azi: 143.348 deg, Mount Alt: 21.108 deg
+20221019_000637.07: Main form log, ENU Azi: -28.253 deg, ENU Ele: 21.506 deg
+20221019_000642.38: Main form log, Tracking stopped.
+20221019_000642.38: Main form log, dq cleared.
+20221019_000643.97: Main form log, TLE track initiated.
+20221019_000643.97: Main form log, Mount commanded to Azi 143.35 deg, Alt 21.11 deg.
+20221019_000956.22: Main form log, FSM closed loop tracking initiated.
+20221019_001004.92: Main form log, FSM closed loop tracking stopped.
+20221019_001007.17: Main form log, dq cleared.
+20221019_001008.18: Main form log, FSM offload angle cleared.
+20221019_001035.81: Main form log, Stop command sent.
+20221019_001035.81: Main form log, dq cleared.
+20221019_001118.71: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221019_001120.82: Main form log, Stop command sent.
+20221019_001120.83: Main form log, dq cleared.
+20221019_001127.33: Main form log, Mount commanded to Azi 190 deg, Alt 0 deg.
+20221019_001133.87: Main form log, Mount commanded to Azi 300 deg, Alt 0 deg.
+20221019_001135.80: Main form log, Stop command sent.
+20221019_001135.80: Main form log, dq cleared.
+20221019_001137.04: Main form log, Mount commanded to Azi 300 deg, Alt 0 deg.
+20221019_001139.47: Main form log, Stop command sent.
+20221019_001139.47: Main form log, dq cleared.
+20221019_001144.81: Main form log, Mount commanded to Azi 210 deg, Alt 0 deg.
+20221019_001147.93: Main form log, Stop command sent.
+20221019_001147.93: Main form log, dq cleared.
+20221019_001156.15: Main form log, Mount commanded to Azi 300 deg, Alt 0 deg.
+20221019_001159.26: Main form log, Stop command sent.
+20221019_001159.26: Main form log, dq cleared.
+20221019_001208.79: Main form log, Mount commanded to Azi 200 deg, Alt 0 deg.
+20221019_001216.13: Main form log, Mount commanded to Azi 100 deg, Alt 0 deg.
+20221019_001231.94: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221019_001339.53: Main form log, Tracking stopped.
+20221019_001339.53: Main form log, dq cleared.
+20221019_001345.18: Main form log, Satellite appears in 0.00 minutes
+20221019_001345.19: Main form log, The pass starts at 2022-10-18 20:13:45.18 local time.
+20221019_001345.19: Main form log, Mount Azi: 118.929 deg, Mount Alt: 28.748 deg
+20221019_001345.19: Main form log, ENU Azi: -52.691 deg, ENU Ele: 29.146 deg
+20221019_001346.59: Main form log, TLE track initiated.
+20221019_001346.59: Main form log, Mount commanded to Azi 118.93 deg, Alt 28.75 deg.
+20221019_001423.52: Main form log, FSM closed loop tracking initiated.
+20221019_001525.14: Main form log, FSM closed loop tracking stopped.
+20221019_001536.49: Main form log, FSM closed loop tracking initiated.
+20221019_001600.23: Main form log, FSM closed loop tracking stopped.
+20221019_001603.27: Main form log, dq cleared.
+20221019_001604.33: Main form log, FSM offload angle cleared.
+20221019_001606.73: Star Cam Display Form: Identified 0 stars.
+20221019_001606.73: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221019_001606.73: Star Cam Display Form: Max score: 0.00
+20221019_001606.80: Main form log, Displaying image 20221019_001606.52
+20221019_001606.80: Main form log, Capture time: 0.638 s.
+20221019_001607.42: Main form log, Failed to take picture from star camera.
+20221019_001607.94: Star Cam Display Form: Identified 0 stars.
+20221019_001607.94: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221019_001607.94: Star Cam Display Form: Max score: 0.00
+20221019_001608.02: Main form log, Displaying image 20221019_001607.72
+20221019_001608.02: Main form log, Capture time: 0.867 s.
+20221019_001608.92: Main form log, Failed to take picture from star camera.
+20221019_001609.44: Star Cam Display Form: Identified 0 stars.
+20221019_001609.44: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221019_001609.44: Star Cam Display Form: Max score: 0.00
+20221019_001609.52: Main form log, Displaying image 20221019_001609.22
+20221019_001609.52: Main form log, Capture time: 0.791 s.
+20221019_001610.12: Main form log, Failed to take picture from star camera.
+20221019_001610.63: Star Cam Display Form: Identified 0 stars.
+20221019_001610.63: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221019_001610.63: Star Cam Display Form: Max score: 0.00
+20221019_001610.70: Main form log, Displaying image 20221019_001610.42
+20221019_001610.70: Main form log, Capture time: 0.742 s.
+20221019_001611.83: Star Cam Display Form: Identified 0 stars.
+20221019_001611.83: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221019_001611.83: Star Cam Display Form: Max score: 0.00
+20221019_001611.90: Main form log, Displaying image 20221019_001611.62
+20221019_001611.90: Main form log, Capture time: 0.691 s.
+20221019_001622.96: Main form log, FSM closed loop tracking initiated.
+20221019_001828.70: Main form log, FSM closed loop tracking stopped.
+20221019_001832.17: Main form log, Tracking stopped.
+20221019_001832.17: Main form log, dq cleared.
+20221019_001841.66: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221019_002020.66: Main form log, Tracking star 18360206.
+20221019_002020.66: Main form log, RA: 4.87356551168385, DEC: 0.676901709701945
+20221019_002020.66: Main form log, ENU Azi: -82.6372268360294, ENU Alt: 58.5253875322445
+20221019_002058.72: Main form log, FSM closed loop tracking initiated.
+20221019_002209.51: Main form log, Offload FSM started.
+20221019_002305.29: Main form log, Offload FSM stopped.
+20221019_002308.77: Main form log, FSM closed loop tracking stopped.
+20221019_002310.19: Main form log, Stop command sent.
+20221019_002310.19: Main form log, dq cleared.
+20221019_003440.55: Main form log, Tracking stopped.
+20221019_003440.55: Main form log, dq cleared.
+20221019_003443.15: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221019_003457.94: Main form log, Stop command sent.
+20221019_003457.94: Main form log, dq cleared.
+20221019_003459.80: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221019_003500.62: Main form log, Stop command sent.
+20221019_003500.62: Main form log, dq cleared.
+20221019_003505.14: Main form log, Satellite appears in 3.58 minutes
+20221019_003505.14: Main form log, The pass starts at 2022-10-18 20:38:40.12 local time.
+20221019_003505.14: Main form log, Mount Azi: 146.160 deg, Mount Alt: 5.002 deg
+20221019_003505.14: Main form log, ENU Azi: -25.441 deg, ENU Ele: 5.285 deg
+20221019_003521.15: Main form log, TLE track initiated.
+20221019_003521.15: Main form log, Mount commanded to Azi 146.16 deg, Alt 5.00 deg.
+20221019_004322.22: Main form log, FSM closed loop tracking initiated.
+20221019_004417.73: Main form log, FSM closed loop tracking stopped.
+20221019_004423.73: Main form log, Stop command sent.
+20221019_004423.73: Main form log, dq cleared.
+20221019_004445.24: Main form log, FSM closed loop tracking initiated.
+20221019_004548.07: Main form log, Tracking star 22490142.
+20221019_004548.07: Main form log, RA: 5.97776670889224, DEC: 0.429375236674661
+20221019_004548.07: Main form log, ENU Azi: 139.923681076019, ENU Alt: 68.1060818204157
+20221019_004602.69: Main form log, Stop command sent.
+20221019_004602.69: Main form log, dq cleared.
+20221019_004604.35: Main form log, FSM closed loop tracking stopped.
+20221019_005039.05: Main form log, Tracking star 18360206.
+20221019_005039.05: Main form log, RA: 4.87356551168385, DEC: 0.676901709701945
+20221019_005039.05: Main form log, ENU Azi: -78.8145404257386, ENU Alt: 53.0083939745731
+20221019_005211.93: Main form log, Stop command sent.
+20221019_005211.93: Main form log, dq cleared.
+20221019_005229.10: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221019_005241.42: Main form log, FSM connection closed.

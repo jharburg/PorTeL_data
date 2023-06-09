@@ -1,0 +1,2 @@
+20221020_225022.03: Main form log, SKY2000V5 star catalog loaded.
+20221020_225022.16: Main form log, Star ID initialized.

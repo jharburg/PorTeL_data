@@ -1,0 +1,10 @@
+20220614_142533.33: Main form log, SKY2000V5 star catalog loaded.
+20220614_142533.46: Main form log, Star ID initialized.
+20220614_142539.34: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\20220524_183657.77.acal
+20220614_142546.38: Main form log, Satellite appears in 0.32 minutes
+20220614_142546.38: Main form log, The pass starts at 2022-05-13 21:53:49.00 local time.
+20220614_142546.38: Main form log, Mount Azi: 44.703 deg, Mount Alt: 5.029 deg
+20220614_142546.38: Main form log, ENU Azi: -129.139 deg, ENU Ele: 4.231 deg
+20220614_142548.70: Main form log, TLE track initiated.
+20220614_142548.70: Main form log, Mount commanded to Azi 44.70 deg, Alt 5.03 deg.
+20220614_143535.87: Main form log, dq cleared.

@@ -1,0 +1,62 @@
+changed to .3
+iss
+SJ-6B
+SL-4 R/B
+CZ-4C R/B
+
+10/11
+Cosmos 2333 Rocket 19:03
+last-1 .4 0.2 in incrementer
+last 0.4 0.2 in controll step
+last+1 0.3 ||
+
+10/18
+.4,.2
+1. star CL
+2. star CL then fsm
+3. dim star ||
+4. YAOGAN 1
+5. Cosmos 1898 Rocket
+6. ATLAS 2AS CENTAUR R/B, fail
+7. Cosmos 2278 Rocket, 3 tries was dim
+8. star
+9. Cosmos 1943 Rocket, brief track
+10. star, mount still
+
+10/20
+1. apex
+2. Cosmos 1300
+3. Cosmos 1943 Rocket
+
+___
+resolution
+1920x1080, medium on GS laptop
+
+
+___
+658, 505
+
+LOS set to pixels (768, 489).
+781,478
+__
+LOS set to pixels (741, 408).
+
+___
+11/19
+LOS set to X: 764, Y: 437 at lightbulb
+LOS set to X: 764, Y: 485 at jupiter
+LOS set to X: 770, Y: 495 fine tune on star
+
+starting at fig 20, -.05 mv star
+opr 12
+opr 10
+opr 8
+
+track ISS, opr 12, set to 4 pix >500
+
+___
+11/28
+try opr 9
+
+LOS set to pixels (780, 505).
+

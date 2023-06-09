@@ -1,0 +1,59 @@
+20221129_003020.90: Main form log, SKY2000V5 star catalog loaded.
+20221129_003021.03: Main form log, Star ID initialized.
+20221129_003028.64: Main form log, Mount connected on port 'COM4'
+20221129_003041.02: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\GS_Tracking_KR\bin\Release\20221117_212115.47.acal
+20221129_003049.78: Main form log, iNova camera initialized: True
+20221129_003054.85: Star Cam Display Form: Identified 0 stars.
+20221129_003054.85: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221129_003054.85: Star Cam Display Form: Max score: 0.00
+20221129_003054.91: Main form log, Displaying image 20221129_003054.51
+20221129_003054.92: Main form log, Capture time: 0.8240471 s.
+20221129_003055.12: Main form log, Failed to take picture from star camera.
+20221129_003055.66: Star Cam Display Form: Identified 0 stars.
+20221129_003055.66: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221129_003055.66: Star Cam Display Form: Max score: 0.00
+20221129_003055.75: Main form log, Displaying image 20221129_003055.41
+20221129_003055.75: Main form log, Capture time: 0.8290475 s.
+20221129_003057.18: Main form log, Initialization success: FSM.
+20221129_003108.17: Main form log, LOS set to pixels (780, 505).
+20221129_003108.17: Main form log, LOS_ST = (0.0149506692976678, 0.00264875019676383, 0.999884724160714).
+20221129_003108.17: Star Cam Display Form: LOS set to X: 780, Y: 505
+20221129_003115.52: Main form log, Failed to take picture from star camera.
+20221129_003116.06: Star Cam Display Form: Identified 0 stars.
+20221129_003116.06: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221129_003116.06: Star Cam Display Form: Max score: 0.00
+20221129_003116.14: Main form log, Displaying image 20221129_003115.82
+20221129_003116.14: Main form log, Capture time: 0.8710499 s.
+20221129_003128.18: Main form log, Initialization success: IR camera.
+20221129_003141.07: Main form log, Satellite appears in 2.05 minutes
+20221129_003141.07: Main form log, The pass starts at 2022-11-28 19:33:44.01 local time.
+20221129_003141.07: Main form log, Mount Azi: 119.684 deg, Mount Alt: 5.007 deg
+20221129_003141.07: Main form log, ENU Azi: -53.572 deg, ENU Ele: 4.425 deg
+20221129_003147.23: Main form log, TLE track initiated.
+20221129_003147.24: Main form log, Mount commanded to Azi 119.68 deg, Alt 5.01 deg.
+20221129_003156.30: Main form log, Start grab with tracking camera.
+20221129_003833.26: Main form log, FSM closed loop tracking initiated.
+20221129_003847.92: Main form log, Stop command sent.
+20221129_003847.92: Main form log, dq cleared.
+20221129_003947.84: Main form log, Mount commanded to Azi 200 deg, Alt 5.01 deg.
+20221129_004008.10: Main form log, Mount commanded to Azi 90 deg, Alt 5.01 deg.
+20221129_004020.88: Main form log, FSM closed loop tracking stopped.
+20221129_004028.61: Main form log, Stop command sent.
+20221129_004028.61: Main form log, dq cleared.
+20221129_004053.44: Main form log, Tracking star 23030107.
+20221129_004053.45: Main form log, RA: 6.03785437350892, DEC: 0.490136935328119
+20221129_004053.45: Main form log, ENU Azi: -124.512151357286, ENU Alt: 68.1007368953207
+20221129_004141.05: Star Cam Display Form: Identified 0 stars.
+20221129_004141.05: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221129_004141.05: Star Cam Display Form: Max score: 0.00
+20221129_004141.12: Main form log, Displaying image 20221129_004140.84
+20221129_004141.12: Main form log, Capture time: 0.6950397 s.
+20221129_004157.05: Main form log, Failed to take picture from star camera.
+20221129_004157.56: Star Cam Display Form: Identified 0 stars.
+20221129_004157.56: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221129_004157.56: Star Cam Display Form: Max score: 0.00
+20221129_004157.63: Main form log, Displaying image 20221129_004157.34
+20221129_004157.63: Main form log, Capture time: 0.7460427 s.
+20221129_004248.16: Main form log, Tracking camera grab stopped.
+20221129_004312.79: Main form log, Stop command sent.
+20221129_004312.79: Main form log, dq cleared.

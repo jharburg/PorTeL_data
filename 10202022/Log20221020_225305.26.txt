@@ -1,0 +1,271 @@
+20221020_225305.60: Main form log, SKY2000V5 star catalog loaded.
+20221020_225305.72: Main form log, Star ID initialized.
+20221020_225311.83: Main form log, Mount connected on port 'COM4'
+20221020_225320.36: Main form log, iNova camera initialized: True
+20221020_225322.43: Star Cam Display Form: Identified 0 stars.
+20221020_225322.43: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_225322.43: Star Cam Display Form: Max score: 0.00
+20221020_225322.50: Main form log, Displaying image 20221020_225322.09
+20221020_225322.50: Main form log, Capture time: 0.796 s.
+20221020_225329.16: Main form log, Loaded calibration file: C:\Users\NODE_GS\JHarburg\CLICK-PorTeL\GS_Tracking_KR\bin\Release\20220915_203021.53.acal
+20221020_225335.02: Main form log, Tracking star 17140107.
+20221020_225335.02: Main form log, RA: 4.51452542458686, DEC: 0.251148031225173
+20221020_225335.02: Main form log, ENU Azi: -114.82550988681, ENU Alt: 44.0047543500864
+20221020_225545.22: Main form log, Initialization success: FSM.
+20221020_225811.58: Star Cam Display Form: Identified 0 stars.
+20221020_225811.58: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_225811.58: Star Cam Display Form: Max score: 0.00
+20221020_225811.66: Main form log, Displaying image 20221020_225811.35
+20221020_225811.66: Main form log, Capture time: 0.723 s.
+20221020_225821.09: Main form log, Feedback from brightest star: correction of 77.846 arcsec.
+20221020_225829.64: Main form log, dq cleared.
+20221020_225830.64: Main form log, FSM offload angle cleared.
+20221020_225836.25: Main form log, Failed to take picture from star camera.
+20221020_225836.81: Star Cam Display Form: Identified 0 stars.
+20221020_225836.81: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_225836.81: Star Cam Display Form: Max score: 0.00
+20221020_225836.88: Main form log, Displaying image 20221020_225836.55
+20221020_225836.88: Main form log, Capture time: 0.804 s.
+20221020_225845.01: Main form log, LOS set to pixels (639, 493).
+20221020_225845.01: Main form log, LOS_ST = (-0.000123495170562024, 0.00136544992620796, 0.999999060147279).
+20221020_225845.01: Star Cam Display Form: LOS set to X: 639, Y: 493
+20221020_225847.25: Main form log, LOS set to pixels (633, 492).
+20221020_225847.25: Main form log, LOS_ST = (-0.000764958979759694, 0.00125849310739149, 0.999998915515841).
+20221020_225847.25: Star Cam Display Form: LOS set to X: 633, Y: 492
+20221020_225849.07: Main form log, LOS set to pixels (648, 492).
+20221020_225849.07: Main form log, LOS_ST = (0.000838694725855896, 0.0012585268451399, 0.999998856350014).
+20221020_225849.07: Star Cam Display Form: LOS set to X: 648, Y: 492
+20221020_225850.69: Main form log, LOS set to pixels (646, 492).
+20221020_225850.70: Main form log, LOS_ST = (0.000624872295693137, 0.00125852271178539, 0.999999012827112).
+20221020_225850.71: Star Cam Display Form: LOS set to X: 646, Y: 492
+20221020_225851.70: Main form log, LOS set to pixels (644, 492).
+20221020_225851.70: Main form log, LOS_ST = (0.000411050407727193, 0.00125851846652309, 0.999999123584032).
+20221020_225851.71: Star Cam Display Form: LOS set to X: 644, Y: 492
+20221020_225852.52: Main form log, LOS set to pixels (642, 492).
+20221020_225852.52: Main form log, LOS_ST = (0.000197229091151517, 0.00125851410913282, 0.999999188621132).
+20221020_225852.52: Star Cam Display Form: LOS set to X: 642, Y: 492
+20221020_225853.60: Main form log, LOS set to pixels (644, 492).
+20221020_225853.61: Main form log, LOS_ST = (0.000411050407727193, 0.00125851846652309, 0.999999123584032).
+20221020_225853.61: Star Cam Display Form: LOS set to X: 644, Y: 492
+20221020_225903.80: Star Cam Display Form: Identified 0 stars.
+20221020_225903.80: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_225903.80: Star Cam Display Form: Max score: 0.00
+20221020_225903.86: Main form log, Displaying image 20221020_225903.56
+20221020_225903.87: Main form log, Capture time: 0.613 s.
+20221020_225905.90: Main form log, Initialization success: IR camera.
+20221020_225906.72: Main form log, Start grab with tracking camera.
+20221020_225914.82: Main form log, Tracking star 19500184.
+20221020_225914.82: Main form log, RA: 5.1957723884129, DEC: 0.154776767694219
+20221020_225914.83: Main form log, ENU Azi: -171.5965572855, ENU Alt: 56.0602579324344
+20221020_230001.17: Main form log, Failed to take picture from star camera.
+20221020_230001.68: Star Cam Display Form: Identified 0 stars.
+20221020_230001.68: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_230001.68: Star Cam Display Form: Max score: 0.00
+20221020_230001.76: Main form log, Displaying image 20221020_230001.47
+20221020_230001.76: Main form log, Capture time: 0.846 s.
+20221020_230019.51: Main form log, Feedback from brightest star: correction of 74.187 arcsec.
+20221020_230024.99: Main form log, dq cleared.
+20221020_230056.54: Main form log, Stop command sent.
+20221020_230056.54: Main form log, dq cleared.
+20221020_230102.48: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221020_230237.38: Main form log, Satellite appears in 0.00 minutes
+20221020_230237.38: Main form log, The pass starts at 2022-10-20 19:02:37.36 local time.
+20221020_230237.38: Main form log, Mount Azi: 24.470 deg, Mount Alt: 23.474 deg
+20221020_230237.38: Main form log, ENU Azi: -147.176 deg, ENU Ele: 23.823 deg
+20221020_230242.02: Main form log, TLE track initiated.
+20221020_230242.02: Main form log, Mount commanded to Azi 24.47 deg, Alt 23.47 deg.
+20221020_230255.84: Main form log, Failed to take picture from star camera.
+20221020_230256.36: Star Cam Display Form: Identified 0 stars.
+20221020_230256.36: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_230256.36: Star Cam Display Form: Max score: 0.00
+20221020_230256.43: Main form log, Displaying image 20221020_230256.14
+20221020_230256.43: Main form log, Capture time: 0.808 s.
+20221020_230257.04: Main form log, Failed to take picture from star camera.
+20221020_230257.56: Star Cam Display Form: Identified 0 stars.
+20221020_230257.56: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_230257.56: Star Cam Display Form: Max score: 0.00
+20221020_230257.62: Main form log, Displaying image 20221020_230257.34
+20221020_230257.62: Main form log, Capture time: 0.756 s.
+20221020_230303.31: Main form log, FSM closed loop tracking initiated.
+20221020_230445.10: Main form log, FSM closed loop tracking stopped.
+20221020_230503.05: Main form log, Stop command sent.
+20221020_230503.05: Main form log, dq cleared.
+20221020_230514.01: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221020_230615.38: Main form log, Tracking star 17140107.
+20221020_230615.38: Main form log, RA: 4.51452542458686, DEC: 0.251148031225173
+20221020_230615.38: Main form log, ENU Azi: -111.813363673838, ENU Alt: 41.8576994660346
+20221020_230806.21: Main form log, 0.151533452087698
+20221020_230806.21: Main form log, 0.00623278760838052
+20221020_230806.21: Main form log, -0.0118408201017489
+20221020_230806.21: Main form log, 0.124756264643627
+20221020_230825.19: Main form log, 0.167145015716907
+20221020_230825.19: Main form log, 0.00337447465982879
+20221020_230825.19: Main form log, -0.0121272100918985
+20221020_230825.19: Main form log, 0.118381674247209
+20221020_231059.38: Main form log, Stop command sent.
+20221020_231059.38: Main form log, dq cleared.
+20221020_231258.70: Main form log, Stop command sent.
+20221020_231258.70: Main form log, dq cleared.
+20221020_231333.18: Main form log, Tracking stopped.
+20221020_231333.18: Main form log, dq cleared.
+20221020_231334.71: Main form log, FSM offload angle cleared.
+20221020_231335.27: Main form log, dq cleared.
+20221020_231339.12: Star Cam Display Form: Identified 0 stars.
+20221020_231339.12: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231339.12: Star Cam Display Form: Max score: 0.00
+20221020_231339.20: Main form log, Displaying image 20221020_231338.91
+20221020_231339.20: Main form log, Capture time: 0.603 s.
+20221020_231341.01: Main form log, Failed to take picture from star camera.
+20221020_231341.53: Star Cam Display Form: Identified 0 stars.
+20221020_231341.53: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231341.53: Star Cam Display Form: Max score: 0.00
+20221020_231341.60: Main form log, Displaying image 20221020_231341.31
+20221020_231341.60: Main form log, Capture time: 0.778 s.
+20221020_231342.51: Main form log, Failed to take picture from star camera.
+20221020_231343.03: Star Cam Display Form: Identified 0 stars.
+20221020_231343.03: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231343.03: Star Cam Display Form: Max score: 0.00
+20221020_231343.10: Main form log, Displaying image 20221020_231342.81
+20221020_231343.10: Main form log, Capture time: 0.742 s.
+20221020_231344.01: Main form log, Failed to take picture from star camera.
+20221020_231344.53: Star Cam Display Form: Identified 0 stars.
+20221020_231344.53: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231344.53: Star Cam Display Form: Max score: 0.00
+20221020_231344.59: Main form log, Displaying image 20221020_231344.31
+20221020_231344.60: Main form log, Capture time: 0.732 s.
+20221020_231345.51: Main form log, Failed to take picture from star camera.
+20221020_231346.03: Star Cam Display Form: Identified 0 stars.
+20221020_231346.03: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231346.03: Star Cam Display Form: Max score: 0.00
+20221020_231346.09: Main form log, Displaying image 20221020_231345.81
+20221020_231346.09: Main form log, Capture time: 0.741 s.
+20221020_231347.23: Star Cam Display Form: Identified 0 stars.
+20221020_231347.23: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231347.23: Star Cam Display Form: Max score: 0.00
+20221020_231347.31: Main form log, Displaying image 20221020_231347.01
+20221020_231347.31: Main form log, Capture time: 0.61 s.
+20221020_231348.21: Main form log, Failed to take picture from star camera.
+20221020_231348.73: Star Cam Display Form: Identified 0 stars.
+20221020_231348.73: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231348.73: Star Cam Display Form: Max score: 0.00
+20221020_231348.79: Main form log, Displaying image 20221020_231348.51
+20221020_231348.80: Main form log, Capture time: 0.857 s.
+20221020_231349.93: Star Cam Display Form: Identified 0 stars.
+20221020_231349.93: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231349.93: Star Cam Display Form: Max score: 0.00
+20221020_231350.01: Main form log, Displaying image 20221020_231349.71
+20221020_231350.01: Main form log, Capture time: 0.694 s.
+20221020_231351.14: Star Cam Display Form: Identified 0 stars.
+20221020_231351.14: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231351.14: Star Cam Display Form: Max score: 0.00
+20221020_231351.21: Main form log, Displaying image 20221020_231350.91
+20221020_231351.21: Main form log, Capture time: 0.599 s.
+20221020_231352.11: Main form log, Failed to take picture from star camera.
+20221020_231352.63: Star Cam Display Form: Identified 0 stars.
+20221020_231352.63: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231352.63: Star Cam Display Form: Max score: 0.00
+20221020_231352.71: Main form log, Displaying image 20221020_231352.41
+20221020_231352.71: Main form log, Capture time: 0.79 s.
+20221020_231355.73: Main form log, Feedback from brightest star: correction of 2398.096 arcsec.
+20221020_231358.82: Main form log, dq cleared.
+20221020_231406.82: Main form log, Failed to take picture from star camera.
+20221020_231407.33: Star Cam Display Form: Identified 0 stars.
+20221020_231407.34: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231407.34: Star Cam Display Form: Max score: 0.00
+20221020_231407.40: Main form log, Displaying image 20221020_231407.12
+20221020_231407.40: Main form log, Capture time: 0.878 s.
+20221020_231428.03: Main form log, Satellite appears in 2.25 minutes
+20221020_231428.03: Main form log, The pass starts at 2022-10-20 19:16:43.02 local time.
+20221020_231428.03: Main form log, Mount Azi: 0.800 deg, Mount Alt: 5.075 deg
+20221020_231428.03: Main form log, ENU Azi: -170.824 deg, ENU Ele: 5.282 deg
+20221020_231429.02: Main form log, TLE track initiated.
+20221020_231429.02: Main form log, Mount commanded to Azi 0.80 deg, Alt 5.07 deg.
+20221020_231516.95: Star Cam Display Form: Identified 0 stars.
+20221020_231516.95: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231516.95: Star Cam Display Form: Max score: 0.00
+20221020_231517.01: Main form log, Displaying image 20221020_231516.73
+20221020_231517.01: Main form log, Capture time: 0.615 s.
+20221020_231901.40: Star Cam Display Form: Identified 0 stars.
+20221020_231901.40: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231901.40: Star Cam Display Form: Max score: 0.00
+20221020_231901.47: Main form log, Displaying image 20221020_231901.18
+20221020_231901.47: Main form log, Capture time: 0.72 s.
+20221020_231902.38: Main form log, Failed to take picture from star camera.
+20221020_231902.90: Star Cam Display Form: Identified 0 stars.
+20221020_231902.90: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231902.90: Star Cam Display Form: Max score: 0.00
+20221020_231902.96: Main form log, Displaying image 20221020_231902.68
+20221020_231902.97: Main form log, Capture time: 0.754 s.
+20221020_231904.40: Star Cam Display Form: Identified 0 stars.
+20221020_231904.40: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231904.40: Star Cam Display Form: Max score: 0.00
+20221020_231904.46: Main form log, Displaying image 20221020_231904.18
+20221020_231904.46: Main form log, Capture time: 0.675 s.
+20221020_231923.00: Star Cam Display Form: Identified 0 stars.
+20221020_231923.00: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231923.00: Star Cam Display Form: Max score: 0.00
+20221020_231923.07: Main form log, Displaying image 20221020_231922.78
+20221020_231923.07: Main form log, Capture time: 0.623 s.
+20221020_231924.21: Star Cam Display Form: Identified 0 stars.
+20221020_231924.21: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231924.21: Star Cam Display Form: Max score: 0.00
+20221020_231924.27: Main form log, Displaying image 20221020_231923.98
+20221020_231924.28: Main form log, Capture time: 0.602 s.
+20221020_231924.88: Main form log, Failed to take picture from star camera.
+20221020_231925.41: Star Cam Display Form: Identified 0 stars.
+20221020_231925.41: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231925.41: Star Cam Display Form: Max score: 0.00
+20221020_231925.47: Main form log, Displaying image 20221020_231925.18
+20221020_231925.48: Main form log, Capture time: 0.748 s.
+20221020_231929.90: Star Cam Display Form: Identified 0 stars.
+20221020_231929.91: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231929.91: Star Cam Display Form: Max score: 0.00
+20221020_231929.98: Main form log, Displaying image 20221020_231929.68
+20221020_231929.98: Main form log, Capture time: 0.629 s.
+20221020_231930.88: Main form log, Failed to take picture from star camera.
+20221020_231931.41: Star Cam Display Form: Identified 0 stars.
+20221020_231931.41: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231931.41: Star Cam Display Form: Max score: 0.00
+20221020_231931.48: Main form log, Displaying image 20221020_231931.18
+20221020_231931.48: Main form log, Capture time: 0.866 s.
+20221020_231932.39: Main form log, Failed to take picture from star camera.
+20221020_231932.90: Star Cam Display Form: Identified 0 stars.
+20221020_231932.91: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231932.91: Star Cam Display Form: Max score: 0.00
+20221020_231932.98: Main form log, Displaying image 20221020_231932.68
+20221020_231932.98: Main form log, Capture time: 0.806 s.
+20221020_231933.89: Main form log, Failed to take picture from star camera.
+20221020_231934.42: Star Cam Display Form: Identified 0 stars.
+20221020_231934.42: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231934.42: Star Cam Display Form: Max score: 0.00
+20221020_231934.48: Main form log, Displaying image 20221020_231934.18
+20221020_231934.48: Main form log, Capture time: 0.84 s.
+20221020_231935.60: Star Cam Display Form: Identified 0 stars.
+20221020_231935.60: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231935.60: Star Cam Display Form: Max score: 0.00
+20221020_231935.66: Main form log, Displaying image 20221020_231935.38
+20221020_231935.68: Main form log, Capture time: 0.606 s.
+20221020_231936.59: Main form log, Failed to take picture from star camera.
+20221020_231937.10: Star Cam Display Form: Identified 0 stars.
+20221020_231937.11: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231937.11: Star Cam Display Form: Max score: 0.00
+20221020_231937.17: Main form log, Displaying image 20221020_231936.88
+20221020_231937.17: Main form log, Capture time: 0.739 s.
+20221020_231938.61: Star Cam Display Form: Identified 0 stars.
+20221020_231938.61: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231938.61: Star Cam Display Form: Max score: 0.00
+20221020_231938.69: Main form log, Displaying image 20221020_231938.39
+20221020_231938.69: Main form log, Capture time: 0.613 s.
+20221020_231939.59: Main form log, Failed to take picture from star camera.
+20221020_231940.10: Star Cam Display Form: Identified 0 stars.
+20221020_231940.10: Star Cam Display Form: RMSE: 0.00 arcseconds
+20221020_231940.10: Star Cam Display Form: Max score: 0.00
+20221020_231940.17: Main form log, Displaying image 20221020_231939.89
+20221020_231940.17: Main form log, Capture time: 0.859 s.
+20221020_231950.44: Main form log, FSM closed loop tracking initiated.
+20221020_232012.13: Main form log, Offload FSM started.
+20221020_232113.92: Main form log, Offload FSM disabled because slew rate is saturated.
+20221020_232127.02: Main form log, Stop command sent.
+20221020_232127.02: Main form log, dq cleared.
+20221020_232157.85: Main form log, Mount commanded to Azi 0 deg, Alt 0 deg.
+20221020_232250.01: Main form log, FSM closed loop tracking stopped.
